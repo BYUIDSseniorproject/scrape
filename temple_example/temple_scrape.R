@@ -139,7 +139,7 @@ temples <- temple_dim |>
     left_join(temple_features) |>
     left_join(temple_time) |>
     left_join(rename(temple_address, temple = name)) |>
-    geocode(city = city, country = country)
+    geocode(city = city, state = stateRegion, country = country)
 
 ### Get prophet dates
 
@@ -199,11 +199,14 @@ dat <- bind_cols(temples, intervals) |>
     mutate(
         prophet_start = int_start(interval),
         prophet_end = int_end(interval))
-
+# stringi::stri_enc_toascii(dat$temple)
+#         temple = stringi::stri_enc_toascii(temple),
 dat <- dat |>
-    mutate(country = ifelse(
-        str_detect(temple, "Freetown|Lubumbashi|Papua|Vanuatu"),
-        "International", country))
+    mutate(
+        country = ifelse(
+            str_detect(temple, "Freetown|Lubumbashi|Papua|Vanuatu"),
+            "International", country))
+
 
 write_csv(dat, "temple_example/temple_details.csv")
 write_parquet(dat, "temple_example/temple_details.parquet")
