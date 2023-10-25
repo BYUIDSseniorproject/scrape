@@ -1,6 +1,6 @@
 # install.packages(pacman)
 
-pacman::p_load(tidyverse, rvest, lubridate, magick, tidygeocoder, arrow, rworldmap)
+pacman::p_load(tidyverse, rvest, lubridate, magick, arrow, rworldmap)
 
 base_url <- "https://churchofjesuschristtemples.org/statistics/"
 
@@ -67,79 +67,12 @@ temple_features <- paste0(base_url, "features/") |>
         tower_spire = as.numeric(tower_spire)
     )
 
-# Pull the address for the church websites
-# https://stackoverflow.com/questions/60397456/scraping-escaped-json-data-within-a-script-type-text-javascript-in-r
-temple_address <- "https://www.churchofjesuschrist.org/temples/list?lang=eng" |>
-    read_html() |>
-    html_node("body") |>
-    html_element("script") |>
-    html_text() |>
-    (function(x) jsonlite::fromJSON(gsub("\\\"", "\"", x, fixed = TRUE)))() |>
-    (function(x) x$query$templeList)() |>
-    as_tibble() |>
-    mutate(
-        country = str_trim(country) |>
-            str_replace("Verenigde State", "United States")
-    )
-
-filter(temple_address, country == "", status == "CONSTRUCTION")
-text_test <- filter(temple_address, country == "") |> pull(templeNameId)
-
-countries <- str_to_lower(rworldmap::countryExData$Country)
-
-
-guess_country <- text_test |>
-    str_remove("-temple") |>
-    str_split_fixed("-", 4) |>
-    as_tibble() |>
-    mutate(
-        new_v2 = V2 == "new",
-        new_v3 = V3 == "new",
-        Vcomb = ifelse(
-            new_v2,
-            paste(V2, V3),
-            ifelse(new_v3,
-                paste(V3, V4),
-                NA)
-                ),
-        uss_v2 = V2 %in% str_to_lower(state.name),
-        uss_v3 = V3 %in% str_to_lower(state.name),
-        c_v2 = V2 %in% countries,
-        c_v3 = V3 %in% countries,
-        c_v4 = V4 %in% countries,
-        uss_vc = Vcomb %in% str_to_lower(state.name),
-        c_vc = Vcomb %in% countries,
-        sum = uss_v2 + uss_v3 + c_v2 + c_v3 + c_v4 + c_vc,
-        templeNameId = text_test
-    ) |>
-    pivot_longer(uss_v2:c_vc, names_to = "type", values_to = "condition") |>
-    filter(condition) |>
-    group_by(templeNameId) |>
-    summarise(
-        type = type  |>
-            str_extract("c|uss") |>
-            unique() |>
-            sort() |>
-            paste(collapse = "-")
-    ) |>
-    mutate(type = case_when(
-        str_detect(type, "uss") ~ "United States",
-        str_detect(type, "c") ~ "International"
-    ))
-
-temple_address <- temple_address |>
-    left_join(guess_country) |>
-    mutate(
-        country = ifelse(country == "", type, country)
-    )
-
 temples <- temple_dim |>
     left_join(temple_districts) |>
     left_join(temple_elevations) |>
     left_join(temple_features) |>
-    left_join(temple_time) |>
-    left_join(rename(temple_address, temple = name)) |>
-    geocode(city = city, state = stateRegion, country = country)
+    left_join(temple_time) 
+
 
 ### Get prophet dates
 
@@ -207,6 +140,5 @@ dat <- dat |>
             str_detect(temple, "Freetown|Lubumbashi|Papua|Vanuatu"),
             "International", country))
 
-
-write_csv(dat, "temple_example/temple_details.csv")
-write_parquet(dat, "temple_example/temple_details.parquet")
+write_csv(dat, "temple_example/temple_details_nolatlong.csv")
+write_parquet(dat, "temple_example/temple_details_nolatlong.parquet")

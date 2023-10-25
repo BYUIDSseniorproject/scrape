@@ -1,0 +1,336 @@
+name,location,status,date,templeOrgId,templeNameId,city,stateRegion,country,sortDate,guess_country,missing_state,first_word,lat,long
+Laie Hawaii Temple,"Laie, Hawaii, United States",OPERATING,27 November 1919,1,laie-hawaii-temple,Laie,Hawaii,United States,"November 27, 1919",NA,FALSE,Laie  ,21.6438449,-157.924442
+Johannesburg South Africa Temple,"Johannesburg, Gauteng, South Africa",OPERATING,24 August 1985,2,johannesburg-south-africa-temple,Johannesburg,Gauteng,South Africa,"August 24, 1985",NA,FALSE,Johannesburg South Africa ,-26.205,28.049722
+Logan Utah Temple,"Logan, Utah, United States",OPERATING,17 May 1884,3,logan-utah-temple,Logan,Utah,United States,"May 17, 1884",NA,FALSE,Logan  ,41.7313063,-111.834914
+Las Vegas Nevada Temple,"Las Vegas, Nevada, United States",OPERATING,16 December 1989,4,las-vegas-nevada-temple,Las Vegas,Nevada,United States,"December 16, 1989",NA,FALSE,Las Vegas  ,36.1672559,-115.148516
+Mexico City Mexico Temple,"México, Distrito Federal, Mexico",OPERATING,2 December 1983,5,mexico-city-mexico-temple,México,Distrito Federal,Mexico,"December 2, 1983",NA,FALSE,Mexico City Mexico ,19.432713,-99.13316157323278
+Ogden Utah Temple,"Ogden, Utah, United States",OPERATING,18 January 1972,6,ogden-utah-temple,Ogden,Utah,United States,"January 18, 1972",NA,FALSE,Ogden  ,41.2230048,-111.9738429
+Orlando Florida Temple,"Windermere, Florida, United States",OPERATING,9 October 1994,7,orlando-florida-temple,Windermere,Florida,United States,"October 9, 1994",NA,FALSE,Orlando  ,28.4944695,-81.5345547
+Provo Utah Temple,"Provo, Utah, United States",OPERATING,9 February 1972,8,provo-utah-temple,Provo,Utah,United States,"February 9, 1972",NA,FALSE,Provo  ,40.2337289,-111.6587085
+Sydney Australia Temple,"Carlingford, New South Wales, Australia",OPERATING,20 September 1984,9,sydney-australia-temple,Carlingford,New South Wales,Australia,"September 20, 1984",NA,FALSE,Sydney Australia ,-33.7744947,151.0475215
+St. George Utah Temple,"St. George, Utah, United States",RENOVATION,Renovation,10,st.-george-utah-temple,St. George,Utah,United States,,NA,FALSE,St. George  ,37.104153,-113.5841313
+São Paulo Brazil Temple,"São Paulo, Sao Paulo, Brazil",OPERATING,30 October 1978,11,sao-paulo-brazil-temple,São Paulo,Sao Paulo,Brazil,"October 30, 1978",NA,FALSE,São Paulo Brazil ,-23.5506507,-46.6333824
+Nuku'alofa Tonga Temple,"Liahona, Tongatapu, Tonga",OPERATING,9 August 1983,12,nuku'alofa-tonga-temple,Liahona,Tongatapu,Tonga,"August 9, 1983",NA,FALSE,Nuku'alofa Tonga ,NA,NA
+Nashville Tennessee Temple,"Franklin, Tennessee, United States",OPERATING,21 May 2000,13,nashville-tennessee-temple,Franklin,Tennessee,United States,"May 21, 2000",NA,FALSE,Nashville  ,35.925206,-86.8689419
+Papeete Tahiti Temple,"Papeete, Tahiti, French Polynesia",OPERATING,27 October 1983,14,papeete-tahiti-temple,Papeete,Tahiti,French Polynesia,"October 27, 1983",NA,FALSE,Papeete Tahiti ,NA,NA
+Tokyo Japan Temple,"Minato-ku, Tokyo, Japan",OPERATING,27 October 1980,15,tokyo-japan-temple,Minato-ku,Tokyo,Japan,"October 27, 1980",NA,FALSE,Tokyo Japan ,35.6432274,139.7400553
+Vernal Utah Temple,"Vernal, Utah, United States",OPERATING,2 November 1997,16,vernal-utah-temple,Vernal,Utah,United States,"November 2, 1997",NA,FALSE,Vernal  ,40.4556825,-109.528474
+Boston Massachusetts Temple,"Belmont, Massachusetts, United States",OPERATING,1 October 2000,17,boston-massachusetts-temple,Belmont,Massachusetts,United States,"October 1, 2000",NA,FALSE,Boston  ,42.3959296,-71.1786655
+Antofagasta Chile Temple,"Antofagasta, Chile",CONSTRUCTION,Construction,4119596,antofagasta-chile-temple,Antofagasta,,Chile,,NA,TRUE,Antofagasta Chile ,-23.6463741,-70.3980033
+Mount Timpanogos Utah Temple,"American Fork, Utah, United States",OPERATING,13 October 1996,18,mount-timpanogos-utah-temple,American Fork,Utah,United States,"October 13, 1996",NA,FALSE,Mount Timpanogos  ,40.3768064,-111.7959146
+Budapest Hungary Temple,Hungary,ANNOUNCED,Announced,4119597,budapest-hungary-temple,,,hungary,,hungary,TRUE,Budapest Hungary ,47.1817585,19.5060937
+Preston England Temple,"Chorley, Lancashire, England",OPERATING,7 June 1998,19,preston-england-temple,Chorley,Lancashire,England,"June 7, 1998",NA,FALSE,Preston England ,NA,NA
+Moses Lake Washington Temple,"Moses Lake, Washington, United States",OPERATING,17 September 2023,4119594,moses-lake-washington-temple,Moses Lake,Washington,United States,"September 17, 2023",NA,FALSE,Moses Lake  ,47.1301417,-119.278077
+St. Louis Missouri Temple,"St. Louis, Missouri, United States",OPERATING,1 June 1997,20,st.-louis-missouri-temple,St. Louis,Missouri,United States,"June 1, 1997",NA,FALSE,St. Louis  ,38.6280278,-90.1910154
+Cardston Alberta Temple,"Cardston, Alberta, Canada",OPERATING,26 August 1923,21,cardston-alberta-temple,Cardston,Alberta,Canada,"August 26, 1923",NA,FALSE,Cardston Alberta ,49.2001157,-113.3165704
+San Pedro Sula Honduras Temple,"San Pedro Sula, Honduras",CONSTRUCTION,Construction,4119595,san-pedro-sula-honduras-temple,San Pedro Sula,,Honduras,,NA,TRUE,San Pedro Sula Honduras ,15.49363865,-88.00776696107931
+Mesa Arizona Temple,"Mesa, Arizona, United States",OPERATING,23 October 1927,22,mesa-arizona-temple,Mesa,Arizona,United States,"October 23, 1927",NA,FALSE,Mesa  ,33.4151005,-111.831455
+Neiafu Tonga Temple,"Neiafu Vava’u, Tonga",CONSTRUCTION,Construction,4119592,neiafu-tonga-temple,Neiafu Vava’u,,Tonga,,NA,TRUE,Neiafu Tonga ,NA,NA
+Boise Idaho Temple,"Boise, Idaho, United States",OPERATING,25 May 1984,23,boise-idaho-temple,Boise,Idaho,United States,"May 25, 1984",NA,FALSE,Boise  ,43.6166163,-116.200886
+Deseret Peak Utah Temple,"Tooele, Utah, United States",CONSTRUCTION,Construction,4119593,deseret-peak-utah-temple,Tooele,Utah,United States,,NA,FALSE,Deseret Peak  ,40.5307776,-112.29828
+Chicago Illinois Temple,"Glenview, Illinois, United States",OPERATING,9 August 1985,24,chicago-illinois-temple,Glenview,Illinois,United States,"August 9, 1985",NA,FALSE,Chicago  ,42.0700662,-87.8114044
+Kansas City Missouri Temple,"Kansas City, Missouri, United States",OPERATING,6 May 2012,4005413,kansas-city-missouri-temple,Kansas City,Missouri,United States,"May 6, 2012",NA,FALSE, City Missouri ,39.100105,-94.5781416
+Pago Pago American Samoa Temple,"Tafuna, Western District, American Samoa",CONSTRUCTION,Construction,4119590,pago-pago-american-samoa-temple,Tafuna,Western District,American Samoa,,NA,FALSE,Pago Pago American Samoa ,NA,NA
+Córdoba Argentina Temple,"Córdoba, Argentina",OPERATING,17 May 2015,4005412,cordoba-argentina-temple,Córdoba,,Argentina,"May 17, 2015",NA,TRUE,Córdoba Argentina ,-31.4166867,-64.1834193
+Denver Colorado Temple,"Centennial, Colorado, United States",OPERATING,24 October 1986,25,denver-colorado-temple,Centennial,Colorado,United States,"October 24, 1986",NA,FALSE,Denver  ,39.579155,-104.8769227
+Okinawa Japan Temple,"Okinawa, Japan",CONSTRUCTION,Construction,4119591,okinawa-japan-temple,Okinawa,,Japan,,NA,TRUE,Okinawa Japan ,26.4748948,127.91146866408414
+Frankfurt Germany Temple,"Friedrichsdorf, Hessen, Germany",OPERATING,28 August 1987,26,frankfurt-germany-temple,Friedrichsdorf,Hessen,Germany,"August 28, 1987",NA,FALSE,Frankfurt Germany ,50.2556672,8.6511395
+Rome Italy Temple,"Rome, Roma, Italy",OPERATING,10 March 2019,4005415,rome-italy-temple,Rome,Roma,Italy,"March 10, 2019",NA,FALSE,Rome Italy ,41.8933203,12.4829321
+Madrid Spain Temple,"Madrid, Madrid, Spain",OPERATING,19 March 1999,27,madrid-spain-temple,Madrid,Madrid,Spain,"March 19, 1999",NA,FALSE,Madrid Spain ,40.4167047,-3.7035825
+Philadelphia Pennsylvania Temple,"Philadelphia, Pennsylvania, United States",OPERATING,18 September 2016,4005414,philadelphia-pennsylvania-temple,Philadelphia,Pennsylvania,United States,"September 18, 2016",NA,FALSE,Philadelphia  ,39.9527237,-75.1635262
+Apia Samoa Temple,"Apia, Pesega, Samoa",OPERATING,5 August 1983,28,apia-samoa-temple,Apia,Pesega,Samoa,"August 5, 1983",NA,FALSE,Apia Samoa ,NA,NA
+Tuxtla Gutiérrez Mexico Temple,"Tuxtla Gutiérrez, Chiapas, Mexico",OPERATING,12 March 2000,37916,tuxtla-gutierrez-mexico-temple,Tuxtla Gutiérrez,Chiapas,Mexico,"March 12, 2000",NA,FALSE,Tuxtla Gutiérrez Mexico ,16.753801,-93.115959
+Atlanta Georgia Temple,"Sandy Springs, Georgia, United States",OPERATING,1 June 1983,29,atlanta-georgia-temple,Sandy Springs,Georgia,United States,"June 1, 1983",NA,FALSE,Atlanta  ,33.9242688,-84.3785379
+Buenos Aires Argentina Temple,"Ciudad Evita, Buenos Aires, Argentina",OPERATING,17 January 1986,30,buenos-aires-argentina-temple,Ciudad Evita,Buenos Aires,Argentina,"January 17, 1986",NA,FALSE,Buenos Aires Argentina ,-34.7176772,-58.5295556
+Calgary Alberta Temple,"Calgary, Alberta, Canada",OPERATING,28 October 2012,4005411,calgary-alberta-temple,Calgary,Alberta,Canada,"October 28, 2012",NA,FALSE,Calgary Alberta ,51.0456064,-114.057541
+Bogotá Colombia Temple,"Bogotá, Distrito Capital, Colombia",OPERATING,24 April 1999,31,bogota-colombia-temple,Bogotá,Distrito Capital,Colombia,"April 24, 1999",NA,FALSE,Bogotá Colombia ,4.6529539,-74.0835643
+Bountiful Utah Temple,"Bountiful, Utah, United States",OPERATING,8 January 1995,32,bountiful-utah-temple,Bountiful,Utah,United States,"January 8, 1995",NA,FALSE,Bountiful  ,40.8894611,-111.8804817
+Dallas Texas Temple,"Dallas, Texas, United States",OPERATING,19 October 1984,33,dallas-texas-temple,Dallas,Texas,United States,"October 19, 1984",NA,FALSE,Dallas  ,32.7762719,-96.7968559
+Freiberg Germany Temple,"Freiberg, Sachsen, Germany",OPERATING,29 June 1985,35,freiberg-germany-temple,Freiberg,Sachsen,Germany,"June 29, 1985",NA,FALSE,Freiberg Germany ,50.9169415,13.3428889
+Guatemala City Guatemala Temple,"Guatemala City, Guatemala, Guatemala",OPERATING,14 December 1984,36,guatemala-city-guatemala-temple,Guatemala City,Guatemala,Guatemala,"December 14, 1984",NA,FALSE,Guatemala City Guatemala ,14.6424667,-90.5131361
+Guayaquil Ecuador Temple,"Guayaquil, Guayas, Ecuador",OPERATING,1 August 1999,37,guayaquil-ecuador-temple,Guayaquil,Guayas,Ecuador,"August 1, 1999",NA,FALSE,Guayaquil Ecuador ,-2.1900563,-79.8868741
+Idaho Falls Idaho Temple,"Idaho Falls, Idaho, United States",OPERATING,23 September 1945,38,idaho-falls-idaho-temple,Idaho Falls,Idaho,United States,"September 23, 1945",NA,FALSE, Falls Idaho ,43.4887907,-112.03628
+Jordan River Utah Temple,"South Jordan, Utah, United States",OPERATING,16 November 1981,39,jordan-river-utah-temple,South Jordan,Utah,United States,"November 16, 1981",NA,FALSE,Jordan River  ,40.5584882,-111.9367107
+Los Angeles California Temple,"Los Angeles, California, United States",OPERATING,11 March 1956,40,los-angeles-california-temple,Los Angeles,California,United States,"March 11, 1956",NA,FALSE,Los Angeles  ,34.0536909,-118.242766
+London England Temple,"Newchapel, Surrey, England",OPERATING,7 September 1958,41,london-england-temple,Newchapel,Surrey,England,"September 7, 1958",NA,FALSE,London England ,NA,NA
+Lima Peru Temple,"La Molina, Lima, Peru",OPERATING,10 January 1986,42,lima-peru-temple,La Molina,Lima,Peru,"January 10, 1986",NA,FALSE,Lima Peru ,-12.0901768,-76.92233779667893
+Manti Utah Temple,"Manti, Utah, United States",RENOVATION,Renovation,43,manti-utah-temple,Manti,Utah,United States,,NA,FALSE,Manti  ,39.2682951,-111.636862
+Nauvoo Illinois Temple,"Nauvoo, Illinois, United States",OPERATING,27 June 2002,44,nauvoo-illinois-temple,Nauvoo,Illinois,United States,"June 27, 2002",NA,FALSE,Nauvoo  ,40.550042,-91.3848749
+Hamilton New Zealand Temple,"Hamilton, Auckland, New Zealand",OPERATING,20 April 1958,45,hamilton-new-zealand-temple,Hamilton,Auckland,New Zealand,"April 20, 1958",NA,FALSE,Hamilton New Zealand ,-36.9634122,174.5732131
+Oakland California Temple,"Oakland, California, United States",OPERATING,17 November 1964,46,oakland-california-temple,Oakland,California,United States,"November 17, 1964",NA,FALSE,Oakland  ,37.8044557,-122.271356
+Seattle Washington Temple,"Bellevue, Washington, United States",OPERATING,17 November 1980,48,seattle-washington-temple,Bellevue,Washington,United States,"November 17, 1980",NA,FALSE,Seattle  ,47.6144219,-122.192337
+Salt Lake Temple,"Salt Lake City, Utah, United States",RENOVATION,Renovation,49,salt-lake-temple,Salt Lake City,Utah,United States,,NA,FALSE,Salt Lake ,40.7596198,-111.886797
+Santiago Chile Temple,"Providencia, Santiago, Chile",OPERATING,15 September 1983,50,santiago-chile-temple,Providencia,Santiago,Chile,"September 15, 1983",NA,FALSE,Santiago Chile ,-33.4288379,-70.61133725589745
+Seoul Korea Temple,"Seoul, Seoul-teukbyeolsi, South Korea",OPERATING,14 December 1985,51,seoul-korea-temple,Seoul,Seoul-teukbyeolsi,South Korea,"December 14, 1985",NA,FALSE,Seoul Korea ,37.5654862,126.97798985523588
+Bern Switzerland Temple,"Zollikofen, Bern, Switzerland",OPERATING,11 September 1955,52,bern-switzerland-temple,Zollikofen,Bern,Switzerland,"September 11, 1955",NA,FALSE,Bern Switzerland ,46.9959463,7.4576417
+Mérida Mexico Temple,"Mérida, Yucatan, Mexico",OPERATING,8 July 2000,36916,merida-mexico-temple,Mérida,Yucatan,Mexico,"July 8, 2000",NA,FALSE,Mérida Mexico ,20.9670759,-89.6237402
+Taipei Taiwan Temple,"Taipei, Taipei, Taiwan",OPERATING,17 November 1984,53,taipei-taiwan-temple,Taipei,Taipei,Taiwan,"November 17, 1984",NA,FALSE,Taipei Taiwan ,25.0402883,121.516830614113
+Washington D.C. Temple,"Kensington, Maryland, United States",OPERATING,19 November 1974,54,washington-d.c.-temple,Kensington,Maryland,United States,"November 19, 1974",NA,FALSE, D.C. ,39.0258405,-77.0750246
+Hong Kong China Temple,"Kowloon Tong, Kowloon City, Hong Kong",OPERATING,26 May 1996,55,hong-kong-china-temple,Kowloon Tong,Kowloon City,Hong Kong,"May 26, 1996",NA,FALSE,Hong Kong China ,NA,NA
+Cochabamba Bolivia Temple,"Alto Queru Queru, Cochabamba, Bolivia",OPERATING,30 April 2000,56,cochabamba-bolivia-temple,Alto Queru Queru,Cochabamba,Bolivia,"April 30, 2000",NA,FALSE,Cochabamba Bolivia ,-17.361064,-66.1517408
+Recife Brazil Temple,"Recife, Pernambuco, Brazil",OPERATING,15 December 2000,57,recife-brazil-temple,Recife,Pernambuco,Brazil,"December 15, 2000",NA,FALSE,Recife Brazil ,-8.0584933,-34.8848193
+Billings Montana Temple,"Billings, Montana, United States",OPERATING,20 November 1999,58,billings-montana-temple,Billings,Montana,United States,"November 20, 1999",NA,FALSE,Billings  ,45.7874957,-108.49607
+Manila Philippines Temple,"Quezon City, Metro Manila, Philippines",OPERATING,25 September 1984,59,manila-philippines-temple,Quezon City,Metro Manila,Philippines,"September 25, 1984",NA,FALSE,Manila Philippines ,14.6508,121.04821
+Monterrey Mexico Temple,"Monterrey, Nuevo Leon, Mexico",OPERATING,28 April 2002,60,monterrey-mexico-temple,Monterrey,Nuevo Leon,Mexico,"April 28, 2002",NA,FALSE,Monterrey Mexico ,25.6802019,-100.315258
+Portland Oregon Temple,"Lake Oswego, Oregon, United States",OPERATING,19 August 1989,63,portland-oregon-temple,Lake Oswego,Oregon,United States,"August 19, 1989",NA,FALSE,Portland  ,45.4206749,-122.670649
+San Diego California Temple,"San Diego, California, United States",RENOVATION,Renovation,64,san-diego-california-temple,San Diego,California,United States,,NA,FALSE,San Diego  ,32.7174202,-117.1627728
+Santo Domingo Dominican Republic Temple,"Santo Domingo, Distrito Nacional, Dominican Republic",OPERATING,17 September 2000,65,santo-domingo-dominican-republic-temple,Santo Domingo,Distrito Nacional,Dominican Republic,"September 17, 2000",NA,FALSE,Santo Domingo Dominican Republic ,18.4801972,-69.942111
+Cobán Guatemala Temple,"Coban, Guatemala",CONSTRUCTION,Construction,4124796,coban-guatemala-temple,Coban,,Guatemala,,NA,TRUE,Cobán Guatemala ,15.4702001,-90.3735065
+Stockholm Sweden Temple,"Vasterhaninge, Sweden",RENOVATION,Renovation,66,stockholm-sweden-temple,Vasterhaninge,,Sweden,,NA,TRUE,Stockholm Sweden ,59.1221593,18.1085969
+Taylorsville Utah Temple,"Taylorsville, Utah, United States",CONSTRUCTION,Construction,4124797,taylorsville-utah-temple,Taylorsville,Utah,United States,,NA,FALSE,Taylorsville  ,40.6676347,-111.9388027
+Toronto Ontario Temple,"Brampton, Ontario, Canada",OPERATING,25 August 1990,67,toronto-ontario-temple,Brampton,Ontario,Canada,"August 25, 1990",NA,FALSE,Toronto Ontario ,43.685832,-79.7599366
+Bacolod Philippines Temple,"Lanao Del Norte, Philippines",CONSTRUCTION,Construction,4124794,bacolod-philippines-temple,Lanao Del Norte,,Philippines,,NA,TRUE,Bacolod Philippines ,NA,NA
+Caracas Venezuela Temple,"Caracas, Dependencias Federales, Venezuela",OPERATING,20 August 2000,68,caracas-venezuela-temple,Caracas,Dependencias Federales,Venezuela,"August 20, 2000",NA,FALSE,Caracas Venezuela ,NA,NA
+McAllen Texas Temple,"McAllen, Texas, United States",OPERATING,8 October 2023,4124795,mcallen-texas-temple,McAllen,Texas,United States,"October 8, 2023",NA,FALSE,McAllen  ,26.204114,-98.2300605
+Port Moresby Papua New Guinea Temple,Papua New Guinea,CONSTRUCTION,Construction,4124792,port-moresby-papua-new-guinea-temple,,,papua new guinea,,papua new guinea,TRUE,Port Moresby Papua New Guinea ,-5.6816069,144.2489081
+Bentonville Arkansas Temple,"Bentonville, Arkansas, United States",OPERATING,17 September 2023,4124793,bentonville-arkansas-temple,Bentonville,Arkansas,United States,"September 17, 2023",NA,FALSE,Bentonville  ,36.3728538,-94.2088172
+Freetown Sierra Leone Temple,Sierra Leone,CONSTRUCTION,Construction,4124790,freetown-sierra-leone-temple,,,sierra leone,,sierra leone,TRUE,Freetown Sierra Leone ,8.6400349,-11.8400269
+Orem Utah Temple,"Orem, Utah, United States",CONSTRUCTION,Construction,4124791,orem-utah-temple,Orem,Utah,United States,,NA,FALSE,Orem  ,40.2981599,-111.6944313
+Panama City Panama Temple,"Corozal, Ancon, Panamá, Panama",OPERATING,10 August 2008,69207,panama-city-panama-temple,Corozal,Ancon,Panama,"August 10, 2008",NA,FALSE,Panama City Panama ,8.9816011,-79.5747055
+Curitiba Brazil Temple,"Curitiba, Parana, Brazil",OPERATING,1 June 2008,69206,curitiba-brazil-temple,Curitiba,Parana,Brazil,"June 1, 2008",NA,FALSE,Curitiba Brazil ,-25.4295963,-49.2712724
+Manhattan New York Temple,"New York, New York, United States",OPERATING,13 June 2004,69208,manhattan-new-york-temple,New York,New York,United States,"June 13, 2004",NA,FALSE,Manhattan  ,40.7127281,-74.0060152
+San Antonio Texas Temple,"San Antonio, Texas, United States",OPERATING,22 May 2005,46179,san-antonio-texas-temple,San Antonio,Texas,United States,"May 22, 2005",NA,FALSE,San Antonio  ,29.4246002,-98.4951405
+Monticello Utah Temple,"Monticello, Utah, United States",OPERATING,26 July 1998,36462,monticello-utah-temple,Monticello,Utah,United States,"July 26, 1998",NA,FALSE,Monticello  ,37.8750565,-109.3403148
+Santa Cruz Bolivia Temple,Bolivia,ANNOUNCED,Announced,4134475,santa-cruz-bolivia-temple,,,bolivia,,bolivia,TRUE,Santa Cruz Bolivia ,-17.0568696,-64.9912286
+São Paulo East Brazil Temple,Brazil,ANNOUNCED,Announced,4134474,sao-paulo-east-brazil-temple,,,australia,,australia,TRUE,São Paulo East Brazil ,-24.7761086,134.755
+Miraflores Guatemala City Guatemala Temple,Guatemala,CONSTRUCTION,Construction,4134473,miraflores-guatemala-city-guatemala-temple,,,guatemala,,guatemala,TRUE,Miraflores Guatemala City Guatemala ,15.5855545,-90.345759
+Lindon Utah Temple,"Utah, United States",CONSTRUCTION,Construction,4134472,lindon-utah-temple,Lindon,Utah,United States,,NA,TRUE,Lindon  ,40.3432857,-111.72076
+Baton Rouge Louisiana Temple,"Baton Rouge, Louisiana, United States",OPERATING,16 July 2000,36984,baton-rouge-louisiana-temple,Baton Rouge,Louisiana,United States,"July 16, 2000",NA,FALSE,Baton Rouge  ,30.4494155,-91.1869659
+Port Vila Vanuatu Temple,Vanuatu,CONSTRUCTION,Construction,4134471,port-vila-vanuatu-temple,,,vanuatu,,vanuatu,TRUE,Port Vila Vanuatu ,-16.5255069,168.1069154
+Birmingham Alabama Temple,"Gardendale, Alabama, United States",OPERATING,3 September 2000,36985,birmingham-alabama-temple,Gardendale,Alabama,United States,"September 3, 2000",NA,FALSE,Birmingham  ,33.6601033,-86.8127702
+Tarawa Kiribati Temple,Kiribati,ANNOUNCED,Announced,4134470,tarawa-kiribati-temple,,,kiribati,,kiribati,TRUE,Tarawa Kiribati ,0.3448612,173.6641773
+Melbourne Australia Temple,"Wantirna South, Victoria, Australia",OPERATING,16 June 2000,36986,melbourne-australia-temple,Wantirna South,Victoria,Australia,"June 16, 2000",NA,FALSE,Melbourne Australia ,-37.8737902,145.2217475
+Columbia South Carolina Temple,"Hopkins, South Carolina, United States",OPERATING,16 October 1999,36987,columbia-south-carolina-temple,Hopkins,South Carolina,United States,"October 16, 1999",NA,FALSE,Columbia  ,33.9043212,-80.8770342
+Memphis Tennessee Temple,"Bartlett, Tennessee, United States",OPERATING,23 April 2000,36988,memphis-tennessee-temple,Bartlett,Tennessee,United States,"April 23, 2000",NA,FALSE,Memphis  ,35.2045329,-89.8739753
+Montevideo Uruguay Temple,"Carrasco, Montevideo, Uruguay",OPERATING,18 March 2001,36989,montevideo-uruguay-temple,Carrasco,Montevideo,Uruguay,"March 18, 2001",NA,FALSE,Montevideo Uruguay ,-34.8855774,-56.0581498
+Villahermosa Mexico Temple,"Villahermosa, Tabasco, Mexico",OPERATING,21 May 2000,36991,villahermosa-mexico-temple,Villahermosa,Tabasco,Mexico,"May 21, 2000",NA,FALSE,Villahermosa Mexico ,18.0018152,-92.9330401483751
+Iquitos Peru Temple,Peru,ANNOUNCED,Announced,4156607,iquitos-peru-temple,,,peru,,peru,TRUE,Iquitos Peru ,-6.8699697,-75.0458515
+Retalhuleu Guatemala Temple,Guatemala,ANNOUNCED,Announced,4156606,retalhuleu-guatemala-temple,,,guatemala,,guatemala,TRUE,Retalhuleu Guatemala ,15.5855545,-90.345759
+Vancouver British Columbia Temple,"Langley, British Columbia, Canada",OPERATING,2 May 2010,4007091,vancouver-british-columbia-temple,Langley,British Columbia,Canada,"May 2, 2010",NA,FALSE,Vancouver British Columbia ,49.1039289,-122.657047
+Cedar City Utah Temple,"Cedar City, Utah, United States",OPERATING,10 December 2017,4028590,cedar-city-utah-temple,Cedar City,Utah,United States,"December 10, 2017",NA,FALSE,Cedar City  ,37.6774238,-113.061827
+Manaus Brazil Temple,"Manaus, Amazonas, Brazil",OPERATING,10 June 2012,79543,manaus-brazil-temple,Manaus,Amazonas,Brazil,"June 10, 2012",NA,FALSE,Manaus Brazil ,-3.1316333,-59.9825041
+Aba Nigeria Temple,"Aba, Abia, Nigeria",OPERATING,7 August 2005,43202,aba-nigeria-temple,Aba,Abia,Nigeria,"August 7, 2005",NA,FALSE,Aba Nigeria ,5.1128008,7.3651376
+Helsinki Finland Temple,"Espoo, Uusimaa, Finland",OPERATING,22 October 2006,43203,helsinki-finland-temple,Espoo,Uusimaa,Finland,"October 22, 2006",NA,FALSE,Helsinki Finland ,60.2047672,24.6568435
+Asunción Paraguay Temple,"Asunción, Alto Paraguay, Paraguay",OPERATING,19 May 2002,43204,asuncion-paraguay-temple,Asunción,Alto Paraguay,Paraguay,"May 19, 2002",NA,FALSE,Asunción Paraguay ,NA,NA
+Accra Ghana Temple,"Accra, Greater Accra, Ghana",OPERATING,11 January 2004,36549,accra-ghana-temple,Accra,Greater Accra,Ghana,"January 11, 2004",NA,FALSE,Accra Ghana ,5.5571096,-0.2012376
+Lubbock Texas Temple,"Lubbock, Texas, United States",OPERATING,21 April 2002,43205,lubbock-texas-temple,Lubbock,Texas,United States,"April 21, 2002",NA,FALSE,Lubbock  ,33.5855677,-101.8470215
+Albuquerque New Mexico Temple,"Albuquerque, New Mexico, United States",OPERATING,5 March 2000,36550,albuquerque-new-mexico-temple,Albuquerque,New Mexico,United States,"March 5, 2000",NA,FALSE,Albuquerque  ,35.0841034,-106.650985
+Snowflake Arizona Temple,"Snowflake, Arizona, United States",OPERATING,3 March 2002,43206,snowflake-arizona-temple,Snowflake,Arizona,United States,"March 3, 2002",NA,FALSE,Snowflake  ,34.5114704,-110.079608
+Anchorage Alaska Temple,"Anchorage, Alaska, United States",OPERATING,9 January 1999,36551,anchorage-alaska-temple,Anchorage,Alaska,United States,"January 9, 1999",NA,FALSE,Anchorage  ,61.2163129,-149.894852
+Columbia River Washington Temple,"Richland, Washington, United States",OPERATING,18 November 2001,43207,columbia-river-washington-temple,Richland,Washington,United States,"November 18, 2001",NA,FALSE,Columbia River  ,46.2804298,-119.275205
+Bismarck North Dakota Temple,"Bismarck, North Dakota, United States",OPERATING,19 September 1999,36552,bismarck-north-dakota-temple,Bismarck,North Dakota,United States,"September 19, 1999",NA,FALSE,Bismarck  ,46.808327,-100.783739
+Brisbane Australia Temple,"Kangaroo Point, Queensland, Australia",OPERATING,15 June 2003,36553,brisbane-australia-temple,Kangaroo Point,Queensland,Australia,"June 15, 2003",NA,FALSE,Brisbane Australia ,-27.473864,153.0367846517436
+Campinas Brazil Temple,"Campinas, Sao Paulo, Brazil",OPERATING,17 May 2002,36554,campinas-brazil-temple,Campinas,Sao Paulo,Brazil,"May 17, 2002",NA,FALSE,Campinas Brazil ,-22.9056391,-47.059564
+Ciudad Juárez Mexico Temple,"Ciudad Juárez, Chihuahua, Mexico",OPERATING,26 February 2000,36555,ciudad-juarez-mexico-temple,Ciudad Juárez,Chihuahua,Mexico,"February 26, 2000",NA,FALSE,Ciudad Juárez Mexico ,31.7372575,-106.485655
+Colonia Juárez Chihuahua Mexico Temple,"Colonia Juárez, Chihuahua, Mexico",OPERATING,6 March 1999,36556,colonia-juarez-chihuahua-mexico-temple,Colonia Juárez,Chihuahua,Mexico,"March 6, 1999",NA,FALSE,Colonia Juárez Chihuahua Mexico ,30.3076107,-108.081005
+Columbus Ohio Temple,"Columbus, Ohio, United States",OPERATING,4 September 1999,36557,columbus-ohio-temple,Columbus,Ohio,United States,"September 4, 1999",NA,FALSE,Columbus  ,39.9622601,-83.0007065
+Edmonton Alberta Temple,"Edmonton, Alberta, Canada",OPERATING,11 December 1999,36558,edmonton-alberta-temple,Edmonton,Alberta,Canada,"December 11, 1999",NA,FALSE,Edmonton Alberta ,53.5462055,-113.491241
+Fukuoka Japan Temple,"Fukuoka-shi, Fukuoka, Japan",OPERATING,11 June 2000,36559,fukuoka-japan-temple,Fukuoka-shi,Fukuoka,Japan,"June 11, 2000",NA,FALSE,Fukuoka Japan ,33.5898988,130.4017509
+Halifax Nova Scotia Temple,"Dartmouth, Nova Scotia, Canada",OPERATING,14 November 1999,36560,halifax-nova-scotia-temple,Dartmouth,Nova Scotia,Canada,"November 14, 1999",NA,FALSE,Halifax Nova Scotia ,44.6799707,-63.5720232
+Hermosillo Sonora Mexico Temple,"Hermosillo, Sonora, Mexico",OPERATING,27 February 2000,36561,hermosillo-sonora-mexico-temple,Hermosillo,Sonora,Mexico,"February 27, 2000",NA,FALSE,Hermosillo Sonora Mexico ,29.0948207,-110.9692202
+Houston Texas Temple,"Spring, Texas, United States",OPERATING,26 August 2000,36562,houston-texas-temple,Spring,Texas,United States,"August 26, 2000",NA,FALSE,Houston  ,30.0798826,-95.4172549
+Kyiv Ukraine Temple,"Kyevo-Sviatoshyns’ky Rayon, Kyiv, Ukraine",OPERATING,29 August 2010,36563,kyiv-ukraine-temple,Kyevo-Sviatoshyns’ky Rayon,Kyiv,Ukraine,"August 29, 2010",NA,FALSE,Kyiv Ukraine ,NA,NA
+Kona Hawaii Temple,"Kailua-Kona, Hawaii, United States",RENOVATION,Renovation,36564,kona-hawaii-temple,Kailua-Kona,Hawaii,United States,,NA,FALSE,Kona  ,19.641941,-155.996933
+Montreal Quebec Temple,"Longueuil, Quebec, Canada",OPERATING,4 June 2000,36565,montreal-quebec-temple,Longueuil,Quebec,Canada,"June 4, 2000",NA,FALSE,Montreal Quebec ,45.521906,-73.4644578
+Porto Alegre Brazil Temple,"Porto Alegre, Rio Grande do Sul, Brazil",OPERATING,17 December 2000,36566,porto-alegre-brazil-temple,Porto Alegre,Rio Grande do Sul,Brazil,"December 17, 2000",NA,FALSE,Porto Alegre Brazil ,-30.0324999,-51.2303767
+Regina Saskatchewan Temple,"Regina, Saskatchewan, Canada",OPERATING,14 November 1999,36567,regina-saskatchewan-temple,Regina,Saskatchewan,Canada,"November 14, 1999",NA,FALSE,Regina Saskatchewan ,50.44876,-104.61731
+St. Paul Minnesota Temple,"Oakdale, Minnesota, United States",OPERATING,9 January 2000,36568,st.-paul-minnesota-temple,Oakdale,Minnesota,United States,"January 9, 2000",NA,FALSE,St. Paul  ,44.985624,-92.9645794
+Suva Fiji Temple,"Samabula, Suva, Fiji",OPERATING,18 June 2000,36569,suva-fiji-temple,Samabula,Suva,Fiji,"June 18, 2000",NA,FALSE,Suva Fiji ,-18.1173104,178.4426504
+Tampico Mexico Temple,"Ciudad Madero, Tamaulipas, Mexico",OPERATING,20 May 2000,36570,tampico-mexico-temple,Ciudad Madero,Tamaulipas,Mexico,"May 20, 2000",NA,FALSE,Tampico Mexico ,22.2474012,-97.8373079
+Tijuana Mexico Temple,"Tijuana, Baja California, Mexico",OPERATING,13 December 2015,4009693,tijuana-mexico-temple,Tijuana,Baja California,Mexico,"December 13, 2015",NA,FALSE,Tijuana Mexico ,32.5317397,-117.019529
+Hartford Connecticut Temple,"Farmington, Connecticut, United States",OPERATING,20 November 2016,4009692,hartford-connecticut-temple,Farmington,Connecticut,United States,"November 20, 2016",NA,FALSE,Hartford  ,41.7198216,-72.8320435
+Lisbon Portugal Temple,"Lisbon, Portugal",OPERATING,15 September 2019,4009689,lisbon-portugal-temple,Lisbon,,Portugal,"September 15, 2019",NA,TRUE,Lisbon Portugal ,38.7077507,-9.1365919
+Spokane Washington Temple,"Spokane, Washington, United States",OPERATING,21 August 1999,36582,spokane-washington-temple,Spokane,Washington,United States,"August 21, 1999",NA,FALSE,Spokane  ,47.6571934,-117.42351
+Urdaneta Philippines Temple,"Urdaneta, Pangasinan, Philippines",CONSTRUCTION,Construction,4009691,urdaneta-philippines-temple,Urdaneta,Pangasinan,Philippines,,NA,FALSE,Urdaneta Philippines ,15.9759995,120.5668992
+Detroit Michigan Temple,"Bloomfield Hills, Michigan, United States",OPERATING,23 October 1999,36583,detroit-michigan-temple,Bloomfield Hills,Michigan,United States,"October 23, 1999",NA,FALSE,Detroit  ,42.583645,-83.2454883
+Indianapolis Indiana Temple,"Carmel, Indiana, United States",OPERATING,23 August 2015,4009690,indianapolis-indiana-temple,Carmel,Indiana,United States,"August 23, 2015",NA,FALSE,polis Indiana ,39.9784186,-86.1283681
+Harrisburg Pennsylvania Temple,"Pennsylvania, United States",ANNOUNCED,Announced,4156620,harrisburg-pennsylvania-temple,Harrisburg,Pennsylvania,United States,,NA,TRUE,Harrisburg  ,40.2663107,-76.8861122
+Charlotte North Carolina Temple,"North Carolina, United States",ANNOUNCED,Announced,4156619,charlotte-north-carolina-temple,Charlotte,North Carolina,United States,,NA,TRUE,Charlotte  ,35.2272086,-80.8430827
+Tegucigalpa Honduras Temple,"Comayagüela, Francisco Morazán, Honduras",OPERATING,17 March 2013,77556,tegucigalpa-honduras-temple,Comayagüela,Francisco Morazán,Honduras,"March 17, 2013",NA,FALSE,Tegucigalpa Honduras ,14.0980079,-87.2099671
+Winchester Virginia Temple,"Virginia, United States",ANNOUNCED,Announced,4156618,winchester-virginia-temple,Winchester,Virginia,United States,,NA,TRUE,Winchester  ,39.1852184,-78.1652404
+Springfield Missouri Temple,"Missouri, United States",ANNOUNCED,Announced,4156617,springfield-missouri-temple,Springfield,Missouri,United States,,NA,TRUE,Springfield  ,37.1968298,-93.2946576
+Bakersfield California Temple,"California, United States",ANNOUNCED,Announced,4156616,bakersfield-california-temple,Bakersfield,California,United States,,NA,TRUE,Bakersfield  ,35.3738712,-119.0194639
+San Jose California Temple,"California, United States",ANNOUNCED,Announced,4156615,san-jose-california-temple,San Jose,California,United States,,NA,TRUE,San Jose  ,37.3361663,-121.890591
+Lethbridge Alberta Temple,"Alberta, Canada",ANNOUNCED,Announced,4156614,lethbridge-alberta-temple,Alberta,,Canada,,NA,TRUE,Lethbridge Alberta ,52.2875,-117.4769
+Hamburg Germany Temple,Germany,ANNOUNCED,Announced,4156613,hamburg-germany-temple,,,germany,,germany,TRUE,Hamburg Germany ,51.1638175,10.4478313
+Jakarta Indonesia Temple,Indonesia,ANNOUNCED,Announced,4156612,jakarta-indonesia-temple,,,indonesia,,indonesia,TRUE,Jakarta Indonesia ,-2.4833826,117.8902853
+Raleigh North Carolina Temple,"Apex, North Carolina, United States",OPERATING,18 December 1999,36603,raleigh-north-carolina-temple,Apex,North Carolina,United States,"December 18, 1999",NA,FALSE,Raleigh  ,35.7325352,-78.8505516
+Iloilo Philippines Temple,Philippines,ANNOUNCED,Announced,4156611,iloilo-philippines-temple,,,philippines,,philippines,TRUE,Iloilo Philippines ,12.7503486,122.7312101
+Tuguegarao City Philippines Temple,Philippines,ANNOUNCED,Announced,4156610,tuguegarao-city-philippines-temple,,,philippines,,philippines,TRUE,Tuguegarao City Philippines ,12.7503486,122.7312101
+Natal Brazil Temple,Brazil,ANNOUNCED,Announced,4156609,natal-brazil-temple,,,brazil,,brazil,TRUE,Natal Brazil ,-10.3333333,-53.2
+Rio de Janeiro Brazil Temple,"Rio de Janeiro, Brazil",OPERATING,8 May 2022,4028611,rio-de-janeiro-brazil-temple,Rio de Janeiro,,Brazil,"May 8, 2022",NA,TRUE,Rio de Janeiro Brazil ,-22.9110137,-43.2093727
+Teresina Brazil Temple,Brazil,ANNOUNCED,Announced,4156608,teresina-brazil-temple,,,brazil,,brazil,TRUE,Teresina Brazil ,-10.3333333,-53.2
+San Salvador El Salvador Temple,"Antiguo Cuscatlán, La Libertad, El Salvador",OPERATING,21 August 2011,4004669,san-salvador-el-salvador-temple,Antiguo Cuscatlán,La Libertad,El Salvador,"August 21, 2011",NA,FALSE,San Salvador El Salvador ,13.67026,-89.24631832742003
+The Hague Netherlands Temple,"Zoetermeer, Zuid-Holland, Netherlands",OPERATING,8 September 2002,40705,the-hague-netherlands-temple,Zoetermeer,Zuid-Holland,Netherlands,"September 8, 2002",NA,FALSE,The Hague Netherlands ,52.0622531,4.4901218
+Gilbert Arizona Temple,"Gilbert, Arizona, United States",OPERATING,2 March 2014,4004671,gilbert-arizona-temple,Gilbert,Arizona,United States,"March 2, 2014",NA,FALSE,Gilbert  ,33.3527632,-111.789037
+The Gila Valley Arizona Temple,"Central, Arizona, United States",OPERATING,23 May 2010,4004670,the-gila-valley-arizona-temple,Central,Arizona,United States,"May 23, 2010",NA,FALSE,The Gila Valley  ,32.8675652,-109.7928591
+Twin Falls Idaho Temple,"Twin Falls, Idaho, United States",OPERATING,24 August 2008,75531,twin-falls-idaho-temple,Twin Falls,Idaho,United States,"August 24, 2008",NA,FALSE,Twin Falls  ,42.5704456,-114.4602554
+Winter Quarters Nebraska Temple,"Omaha, Nebraska, United States",OPERATING,22 April 2001,40202,winter-quarters-nebraska-temple,Omaha,Nebraska,United States,"April 22, 2001",NA,FALSE,Winter Quarters  ,41.2587459,-95.9383758
+Draper Utah Temple,"Draper, Utah, United States",OPERATING,20 March 2009,75530,draper-utah-temple,Draper,Utah,United States,"March 20, 2009",NA,FALSE,Draper  ,40.5247777,-111.8627989
+Perth Australia Temple,"Yokine, Western Australia, Australia",OPERATING,20 May 2001,40203,perth-australia-temple,Yokine,Western Australia,Australia,"May 20, 2001",NA,FALSE,Perth Australia ,-31.90171,115.8525017
+Lima Peru Los Olivos Temple,"Los Olivos, Lima, Peru",CONSTRUCTION,Construction,4086056,lima-peru-los-olivos-temple,Los Olivos,Lima,Peru,,NA,FALSE,Lima Peru Los Olivos ,-11.9659853,-77.07307131998294
+Quito Ecuador Temple,"Quito, Ecuador",OPERATING,20 November 2022,4086054,quito-ecuador-temple,Quito,,Ecuador,"November 20, 2022",NA,TRUE,Quito Ecuador ,-0.2201641,-78.5123274
+Veracruz Mexico Temple,"Boca del Rio, Veracruz, Mexico",OPERATING,9 July 2000,38680,veracruz-mexico-temple,Boca del Rio,Veracruz,Mexico,"July 9, 2000",NA,FALSE,Veracruz Mexico ,19.1007964,-96.1058339
+Belém Brazil Temple,"Belém, Para, Brazil",OPERATING,20 November 2022,4086055,belem-brazil-temple,Belém,Para,Brazil,"November 20, 2022",NA,FALSE,Belém Brazil ,-1.45056,-48.4682453
+Reno Nevada Temple,"Reno, Nevada, United States",OPERATING,23 April 2000,38681,reno-nevada-temple,Reno,Nevada,United States,"April 23, 2000",NA,FALSE,Reno  ,39.5261206,-119.8126581
+Guadalajara Mexico Temple,"Zapopan, Jalisco, Mexico",OPERATING,29 April 2001,38682,guadalajara-mexico-temple,Zapopan,Jalisco,Mexico,"April 29, 2001",NA,FALSE,Guadalajara Mexico ,20.7211203,-103.3913671
+Harare Zimbabwe Temple,"Harare, Zimbabwe",CONSTRUCTION,Construction,4086053,harare-zimbabwe-temple,Harare,,Zimbabwe,,NA,TRUE,Harare Zimbabwe ,-17.831773,31.045686
+Trujillo Peru Temple,"Trujillo, La Libertad, Peru",OPERATING,21 June 2015,4005658,trujillo-peru-temple,Trujillo,La Libertad,Peru,"June 21, 2015",NA,FALSE,Trujillo Peru ,-8.1116778,-79.0287742
+Culiacán Mexico Temple,Mexico,ANNOUNCED,Announced,4142975,culiacan-mexico-temple,,,mexico,,mexico,TRUE,Culiacán Mexico ,23.6585116,-102.0077097
+Elko Nevada Temple,"Nevada, United States",CONSTRUCTION,Construction,4138367,elko-nevada-temple,Elko,Nevada,United States,,NA,TRUE,Elko  ,40.83269,-115.7630942
+Salta Argentina Temple,"Salta, Argentina",CONSTRUCTION,Construction,4108670,salta-argentina-temple,Salta,,Argentina,,NA,TRUE,Salta Argentina ,-24.7892946,-65.4103194
+Antananarivo Madagascar Temple,Madagascar,ANNOUNCED,Announced,4142974,antananarivo-madagascar-temple,,,madagascar,,madagascar,TRUE,Antananarivo Madagascar ,-18.9249604,46.4416422
+Bengaluru India Temple,"Bangalore, India",CONSTRUCTION,Construction,4108671,bengaluru-india-temple,Bangalore,,India,,NA,TRUE,Bengaluru India ,12.9767936,77.590082
+Willamette Valley Oregon Temple,"Oregon, United States",CONSTRUCTION,Construction,4138366,willamette-valley-oregon-temple,Willamette Valley,Oregon,United States,,NA,TRUE,Willamette Valley  ,45.03332045,-122.74149333240072
+Burley Idaho Temple,United States,CONSTRUCTION,Construction,4138365,burley-idaho-temple,Burley,Idaho,United States,,NA,FALSE,Burley  ,42.5357428,-113.792794
+Kananga Democratic Republic of the Congo Temple,Democratic Republic of the Congo,ANNOUNCED,Announced,4142973,kananga-democratic-republic-of-the-congo-temple,,,republic of the congo,,republic of the congo,TRUE,Kananga Democratic Republic of the Congo ,-0.7264327,15.6419155
+Farmington New Mexico Temple,"New Mexico, United States",CONSTRUCTION,Construction,4138364,farmington-new-mexico-temple,Farmington,New Mexico,United States,,NA,TRUE,Farmington  ,36.7291152,-108.205445
+Monrovia Liberia Temple,Liberia,ANNOUNCED,Announced,4142972,monrovia-liberia-temple,,,liberia,,liberia,TRUE,Monrovia Liberia ,5.7499721,-9.3658524
+Grand Junction Colorado Temple,"Colorado, United States",CONSTRUCTION,Construction,4138363,grand-junction-colorado-temple,Grand Junction,Colorado,United States,,NA,TRUE,Grand Junction  ,39.063956,-108.5507317
+Tacloban City Philippines Temple,Philippines,ANNOUNCED,Announced,4142971,tacloban-city-philippines-temple,,,philippines,,philippines,TRUE,Tacloban City Philippines ,12.7503486,122.7312101
+Casper Wyoming Temple,"Casper, Wyoming, United States",CONSTRUCTION,Construction,4138362,casper-wyoming-temple,Casper,Wyoming,United States,,NA,FALSE,Casper  ,42.8501191,-106.325138
+Kaohsiung Taiwan Temple,Taiwan,ANNOUNCED,Announced,4142970,kaohsiung-taiwan-temple,,,taiwan,,taiwan,TRUE,Kaohsiung Taiwan ,23.9739374,120.9820179
+Helena Montana Temple,"Helena, Montana, United States",OPERATING,18 June 2023,4138361,helena-montana-temple,Helena,Montana,United States,"June 18, 2023",NA,FALSE,Helena  ,46.5927425,-112.036277
+Torreón Mexico Temple,Mexico,CONSTRUCTION,Construction,4138360,torreon-mexico-temple,,,mexico,,mexico,TRUE,Torreón Mexico ,23.6585116,-102.0077097
+Querétaro Mexico Temple,Mexico,CONSTRUCTION,Construction,4138359,queretaro-mexico-temple,,,mexico,,mexico,TRUE,Querétaro Mexico ,23.6585116,-102.0077097
+Cali Colombia Temple,Colombia,ANNOUNCED,Announced,4138358,cali-colombia-temple,,,colombia,,colombia,TRUE,Cali Colombia ,4.099917,-72.9088133
+Belo Horizonte Brazil Temple,Brazil,CONSTRUCTION,Construction,4138357,belo-horizonte-brazil-temple,,,brazil,,brazil,TRUE,Belo Horizonte Brazil ,-10.3333333,-53.2
+Singapore Temple,Singapore,ANNOUNCED,Announced,4138356,singapore-temple,,,singapore,,singapore,TRUE,Singapore ,1.357107,103.8194992
+Cape Town South Africa Temple,South Africa,ANNOUNCED,Announced,4138355,cape-town-south-africa-temple,,,south africa,,south africa,TRUE,Cape Town South Africa ,-28.8166236,24.991639
+Beira Mozambique Temple,Mozambique,ANNOUNCED,Announced,4138354,beira-mozambique-temple,,,mozambique,,mozambique,TRUE,Beira Mozambique ,-19.302233,34.9144977
+Sacramento California Temple,"Rancho Cordova, California, United States",OPERATING,3 September 2006,45901,sacramento-california-temple,Rancho Cordova,California,United States,"September 3, 2006",NA,FALSE,Sacramento  ,38.5890723,-121.302728
+Kumasi Ghana Temple,Ghana,ANNOUNCED,Announced,4138353,kumasi-ghana-temple,,,ghana,,ghana,TRUE,Kumasi Ghana ,8.0300284,-1.0800271
+Redlands California Temple,"Redlands, California, United States",OPERATING,14 September 2003,45902,redlands-california-temple,Redlands,California,United States,"September 14, 2003",NA,FALSE,Redlands  ,34.0550328,-117.1827445
+Newport Beach California Temple,"Newport Beach, California, United States",OPERATING,28 August 2005,45903,newport-beach-california-temple,Newport Beach,California,United States,"August 28, 2005",NA,FALSE,Newport Beach  ,33.6170092,-117.9294401
+Vienna Austria Temple,Austria,ANNOUNCED,Announced,4138352,vienna-austria-temple,,,austria,,austria,TRUE,Vienna Austria ,47.59397,14.12456
+Brussels Belgium Temple,Belgium,ANNOUNCED,Announced,4138351,brussels-belgium-temple,,,belgium,,belgium,TRUE,Brussels Belgium ,50.6402809,4.6667145
+Oslo Norway Temple,Norway,ANNOUNCED,Announced,4138350,oslo-norway-temple,,,norway,,norway,TRUE,Oslo Norway ,61.1529386,8.7876653
+Quetzaltenango Guatemala Temple,"Quetzaltenango, Quezaltenango, Guatemala",OPERATING,11 December 2011,78698,quetzaltenango-guatemala-temple,Quetzaltenango,Quezaltenango,Guatemala,"December 11, 2011",NA,FALSE,Quetzaltenango Guatemala ,NA,NA
+Bangkok Thailand Temple,"Bangkok, Thailand",OPERATING,22 October 2023,4069712,bangkok-thailand-temple,Bangkok,,Thailand,"October 22, 2023",NA,TRUE,Bangkok Thailand ,13.7524938,100.4935089
+Abidjan Ivory Coast Temple,"Abidjan, Côte d'Ivoire",CONSTRUCTION,Construction,4069710,abidjan-ivory-coast-temple,Abidjan,,Côte d'Ivoire,,NA,TRUE,Abidjan Ivory Coast ,5.320357,-4.016107
+Port-au-Prince Haiti Temple,"Port-au-Prince, Haiti",OPERATING,1 September 2019,4069711,port-au-prince-haiti-temple,Port-au-Prince,,Haiti,"September 1, 2019",NA,TRUE,Port-au-Prince Haiti ,18.547327,-72.3395928
+Phoenix Arizona Temple,"Phoenix, Arizona, United States",OPERATING,16 November 2014,4004672,phoenix-arizona-temple,Phoenix,Arizona,United States,"November 16, 2014",NA,FALSE,Phoenix  ,33.4484367,-112.074141
+Winnipeg Manitoba Temple,"Winnipeg, Manitoba, Canada",OPERATING,31 October 2021,4010937,winnipeg-manitoba-temple,Winnipeg,Manitoba,Canada,"October 31, 2021",NA,FALSE,Winnipeg Manitoba ,49.8955367,-97.1384584
+Fort Collins Colorado Temple,"Fort Collins, Colorado, United States",OPERATING,16 October 2016,4010939,fort-collins-colorado-temple,Fort Collins,Colorado,United States,"October 16, 2016",NA,FALSE,Fort Collins  ,40.5508527,-105.0668085
+Meridian Idaho Temple,"Meridian, Idaho, United States",OPERATING,19 November 2017,4010938,meridian-idaho-temple,Meridian,Idaho,United States,"November 19, 2017",NA,FALSE,Meridian  ,43.6086295,-116.392326
+Brigham City Utah Temple,"Brigham City, Utah, United States",OPERATING,23 September 2012,4007349,brigham-city-utah-temple,Brigham City,Utah,United States,"September 23, 2012",NA,FALSE,Brigham City  ,41.5110434,-112.0154991
+Fort Lauderdale Florida Temple,"Davie, Florida, United States",OPERATING,4 May 2014,4007348,fort-lauderdale-florida-temple,Davie,Florida,United States,"May 4, 2014",NA,FALSE,Fort Lauderdale  ,26.07441465,-80.28402569275804
+Fortaleza Brazil Temple,"Fortaleza, Ceara, Brazil",OPERATING,2 June 2019,4007351,fortaleza-brazil-temple,Fortaleza,Ceara,Brazil,"June 2, 2019",NA,FALSE,Fortaleza Brazil ,-3.7304512,-38.5217989
+Sapporo Japan Temple,"Atsubetsu-ku Sapporo, Hokkaido, Japan",OPERATING,21 August 2016,4007350,sapporo-japan-temple,Atsubetsu-ku Sapporo,Hokkaido,Japan,"August 21, 2016",NA,FALSE,Sapporo Japan ,NA,NA
+Cebu City Philippines Temple,"Cebu City, Cebu, Philippines",OPERATING,13 June 2010,77199,cebu-city-philippines-temple,Cebu City,Cebu,Philippines,"June 13, 2010",NA,FALSE,Cebu City Philippines ,10.2977029,123.8990986
+Concepción Chile Temple,"Concepcion, Chile",OPERATING,28 October 2018,4007347,concepcion-chile-temple,Concepcion,,Chile,"October 28, 2018",NA,TRUE,Concepción Chile ,-36.8270795,-73.0502399
+Palmyra New York Temple,"Palmyra, New York, United States",OPERATING,6 April 2000,37774,palmyra-new-york-temple,Palmyra,New York,United States,"April 6, 2000",NA,FALSE,Palmyra  ,43.0623754,-77.2347245
+Oquirrh Mountain Utah Temple,"South Jordan, Utah, United States",OPERATING,21 August 2009,77200,oquirrh-mountain-utah-temple,South Jordan,Utah,United States,"August 21, 2009",NA,FALSE,Oquirrh Mountain  ,40.5584882,-111.9367107
+Pocatello Idaho Temple,"Pocatello, Idaho, United States",OPERATING,7 November 2021,4098474,pocatello-idaho-temple,Pocatello,Idaho,United States,"November 7, 2021",NA,FALSE,Pocatello  ,42.8620287,-112.450627
+Saratoga Springs Utah Temple,"Saratoga Springs, Utah, United States",OPERATING,13 August 2023,4098475,saratoga-springs-utah-temple,Saratoga Springs,Utah,United States,"August 13, 2023",NA,FALSE,Saratoga Springs  ,40.3862792,-111.9130188
+Alabang Philippines Temple,Philippines,CONSTRUCTION,Construction,4098472,alabang-philippines-temple,Manila,,Filippyne,,NA,TRUE,Alabang Philippines ,14.5906346,120.9799964
+Modesto California Temple,"California, United States",CONSTRUCTION,Construction,4148136,modesto-california-temple,Modesto,California,United States,,NA,TRUE,Modesto  ,37.6390972,-120.9968782
+Nairobi Kenya Temple,"Nairobi, Kenya",CONSTRUCTION,Construction,4098473,nairobi-kenya-temple,Nairobi,,Kenya,,NA,TRUE,Nairobi Kenya ,-1.30261485,36.82884201813725
+Montpelier Idaho Temple,"Idaho, United States",CONSTRUCTION,Construction,4148135,montpelier-idaho-temple,Montpelier,Idaho,United States,,NA,TRUE,Montpelier  ,42.3221498,-111.2977044
+Brasília Brazil Temple,"Brasilia, Brazil",OPERATING,17 September 2023,4098471,brasilia-brazil-temple,Brasilia,,Brazil,"September 17, 2023",NA,TRUE,Brasília Brazil ,-15.7934036,-47.8823172
+Missoula Montana Temple,"Montana, United States",ANNOUNCED,Announced,4148134,missoula-montana-temple,Missoula,Montana,United States,,NA,TRUE,Missoula  ,46.8701049,-113.995267
+Adelaide Australia Temple,"Marden, South Australia, Australia",OPERATING,15 June 2000,38298,adelaide-australia-temple,Marden,South Australia,Australia,"June 15, 2000",NA,FALSE,Adelaide Australia ,-34.8925643,138.6347392
+Austin Texas Temple,"Texas, United States",ANNOUNCED,Announced,4148133,austin-texas-temple,Austin,Texas,United States,,NA,TRUE,Austin  ,30.2711286,-97.7436995
+Wichita Kansas Temple,"Kansas, United States",ANNOUNCED,Announced,4148132,wichita-kansas-temple,Wichita,Kansas,United States,,NA,TRUE,Wichita  ,37.6922361,-97.3375448
+Cleveland Ohio Temple,"Ohio, United States",ANNOUNCED,Announced,4148131,cleveland-ohio-temple,Cleveland,Ohio,United States,,NA,TRUE,Cleveland  ,41.4996574,-81.6936772
+Knoxville Tennessee Temple,"Tennessee, United States",ANNOUNCED,Announced,4148130,knoxville-tennessee-temple,Knoxville,Tennessee,United States,,NA,TRUE,Knoxville  ,35.9603948,-83.9210261
+Tampa Florida Temple,"Florida, United States",ANNOUNCED,Announced,4148129,tampa-florida-temple,Tampa,Florida,United States,,NA,TRUE,Tampa  ,27.9477595,-82.458444
+Tucson Arizona Temple,"Tucson, Arizona, United States",OPERATING,13 August 2017,4017571,tucson-arizona-temple,Tucson,Arizona,United States,"August 13, 2017",NA,FALSE,Tucson  ,32.2228765,-110.974847
+Arequipa Peru Temple,"Arequipa, Peru",OPERATING,15 December 2019,4017570,arequipa-peru-temple,Arequipa,,Peru,"December 15, 2019",NA,TRUE,Arequipa Peru ,-16.3988667,-71.5369607
+Mexico City Benemérito Mexico Temple,Mexico,ANNOUNCED,Announced,4148128,mexico-city-benemerito-mexico-temple,,,cote d'ivoire,,cote d'ivoire,TRUE,Mexico City Benemérito Mexico ,7.9897371,-5.5679458
+San Luis Potosí Mexico Temple,Mexico,ANNOUNCED,Announced,4148127,san-luis-potosi-mexico-temple,,,mexico,,mexico,TRUE,San Luis Potosí Mexico ,23.6585116,-102.0077097
+Santos Brazil Temple,Brazil,ANNOUNCED,Announced,4148126,santos-brazil-temple,,,brazil,,brazil,TRUE,Santos Brazil ,-10.3333333,-53.2
+Maceió Brazil Temple,Brazil,ANNOUNCED,Announced,4148125,maceio-brazil-temple,,,brazil,,brazil,TRUE,Maceió Brazil ,-10.3333333,-53.2
+Cusco Peru Temple,Peru,ANNOUNCED,Announced,4148124,cusco-peru-temple,,,peru,,peru,TRUE,Cusco Peru ,-6.8699697,-75.0458515
+Shanghai People’s Republic of China Temple,China,ANNOUNCED,Announced,4130716,shanghai-people’s-republic-of-china-temple,,,republic of the congo,,republic of the congo,TRUE,Shanghai People’s Republic of China ,-0.7264327,15.6419155
+Birmingham England Temple,United Kingdom,ANNOUNCED,Announced,4148123,birmingham-england-temple,,,england,,england,TRUE,Birmingham England ,NA,NA
+Dubai United Arab Emirates Temple,United Arab Emirates,ANNOUNCED,Announced,4130715,dubai-united-arab-emirates-temple,,,united states,,united states,TRUE,Dubai United Arab Emirates ,39.7837304,-100.445882
+Barcelona Spain Temple,Spain,ANNOUNCED,Announced,4148122,barcelona-spain-temple,,,spain,,spain,TRUE,Barcelona Spain ,39.3260685,-4.8379791
+Benin City Nigeria Temple,Nigeria,ANNOUNCED,Announced,4130714,benin-city-nigeria-temple,,,nigeria,,nigeria,TRUE,Benin City Nigeria ,9.6000359,7.9999721
+Brazzaville Republic of the Congo Temple,Republic of the Congo,ANNOUNCED,Announced,4148121,brazzaville-republic-of-the-congo-temple,,,republic of the congo,,republic of the congo,TRUE,Brazzaville Republic of the Congo ,-0.7264327,15.6419155
+Pittsburgh Pennsylvania Temple,"Cranberry Township, Pennsylvania, United States",CONSTRUCTION,Construction,4130713,pittsburgh-pennsylvania-temple,Cranberry Township,Pennsylvania,United States,,NA,FALSE,Pittsburgh  ,40.7099343,-80.1060506
+Lubumbashi Democratic Republic of the Congo Temple,Democratic Republic of the Congo,CONSTRUCTION,Construction,4130712,lubumbashi-democratic-republic-of-the-congo-temple,,,republic of the congo,,republic of the congo,TRUE,Lubumbashi Democratic Republic of the Congo ,-0.7264327,15.6419155
+Wellington New Zealand Temple,New Zealand,ANNOUNCED,Announced,4148120,wellington-new-zealand-temple,,,new zealand,,new zealand,TRUE,Wellington New Zealand ,-41.5000831,172.8344077
+Tallahassee Florida Temple,"Tallahassee, Florida, United States",CONSTRUCTION,Construction,4130711,tallahassee-florida-temple,Tallahassee,Florida,United States,,NA,FALSE,Tallahassee  ,30.4380832,-84.2809332
+Bahía Blanca Argentina Temple,Argentina,CONSTRUCTION,Construction,4130710,bahia-blanca-argentina-temple,,,argentina,,argentina,TRUE,Bahía Blanca Argentina ,-34.9964963,-64.9672817
+Ulaanbaatar Mongolia Temple,Mongolia,ANNOUNCED,Announced,4160404,ulaanbaatar-mongolia-temple,,,mongolia,,mongolia,TRUE,Ulaanbaatar Mongolia ,46.8250388,103.8499736
+Vancouver Washington Temple,"Washington, United States",ANNOUNCED,Announced,4160403,vancouver-washington-temple,Vancouver,Washington,United States,,NA,TRUE,Vancouver  ,45.6306954,-122.6744557
+Fairbanks Alaska Temple,"Alaska, United States",ANNOUNCED,Announced,4160402,fairbanks-alaska-temple,Fairbanks,Alaska,United States,,NA,TRUE,Fairbanks  ,64.837845,-147.716675
+Kahului Hawaii Temple,"Hawaii, United States",ANNOUNCED,Announced,4160401,kahului-hawaii-temple,Kahului,Hawaii,United States,,NA,TRUE,Kahului  ,20.8894101,-156.4727118
+Roanoke Virginia Temple,"Virginia, United States",ANNOUNCED,Announced,4160400,roanoke-virginia-temple,Roanoke,Virginia,United States,,NA,TRUE,Roanoke  ,37.270973,-79.9414313
+Tulsa Oklahoma Temple,"Oklahoma, United States",ANNOUNCED,Announced,4160399,tulsa-oklahoma-temple,Tulsa,Oklahoma,United States,,NA,TRUE,Tulsa  ,36.1563122,-95.9927516
+Colorado Springs Colorado Temple,"Colorado, United States",ANNOUNCED,Announced,4160398,colorado-springs-colorado-temple,Springs Colorado,Colorado,United States,,NA,TRUE, Springs Colorado ,38.8339578,-104.825348
+Osaka Japan Temple,Japan,ANNOUNCED,Announced,4160397,osaka-japan-temple,,,japan,,japan,TRUE,Osaka Japan ,36.5748441,139.2394179
+Laoag Philippines Temple,Philippines,ANNOUNCED,Announced,4160396,laoag-philippines-temple,,,philippines,,philippines,TRUE,Laoag Philippines ,12.7503486,122.7312101
+Mbuji-Mayi Democratic Republic of the Congo Temple,Democratic Republic of the Congo,ANNOUNCED,Announced,4160395,mbuji-mayi-democratic-republic-of-the-congo-temple,,,republic of the congo,,republic of the congo,TRUE,Mbuji-Mayi Democratic Republic of the Congo ,-0.7264327,15.6419155
+Luanda Angola Temple,Angola,ANNOUNCED,Announced,4160394,luanda-angola-temple,,,angola,,angola,TRUE,Luanda Angola ,-11.8775768,17.5691241
+Cape Coast Ghana Temple,Ghana,ANNOUNCED,Announced,4160393,cape-coast-ghana-temple,,,botswana,,botswana,TRUE,Cape Coast Ghana ,-23.1681782,24.5928742
+Calabar Nigeria Temple,Nigeria,ANNOUNCED,Announced,4160392,calabar-nigeria-temple,,,nigeria,,nigeria,TRUE,Calabar Nigeria ,9.6000359,7.9999721
+João Pessoa Brazil Temple,Brazil,ANNOUNCED,Announced,4160391,joao-pessoa-brazil-temple,,,brazil,,brazil,TRUE,João Pessoa Brazil ,-10.3333333,-53.2
+Star Valley Wyoming Temple,"Afton, Wyoming, United States",OPERATING,30 October 2016,4012421,star-valley-wyoming-temple,Afton,Wyoming,United States,"October 30, 2016",NA,FALSE,Star Valley  ,42.7252774,-110.933402
+Barranquilla Colombia Temple,"Barranquilla, Colombia",OPERATING,9 December 2018,4012420,barranquilla-colombia-temple,Barranquilla,,Colombia,"December 9, 2018",NA,TRUE,Barranquilla Colombia ,10.9938698,-74.7927177
+Goiãnia Brazil Temple,Brazil,ANNOUNCED,Announced,4160390,goiania-brazil-temple,,,brazil,,brazil,TRUE,Goiãnia Brazil ,-10.3333333,-53.2
+Heber Valley Utah Temple,"Utah, United States",CONSTRUCTION,Construction,4142982,heber-valley-utah-temple,Heber Valley,Utah,United States,,NA,TRUE,Heber Valley  ,NA,NA
+Russia Temple,Location is not available,ANNOUNCED,Announced,4108676,russia-temple,,,russia,,russia,TRUE,Russia ,64.6863136,97.7453061
+Teton River Idaho Temple,"Idaho, United States",ANNOUNCED,Announced,4142981,teton-river-idaho-temple,Teton River,Idaho,United States,,NA,TRUE,Teton River  ,43.7648921,-111.2035833
+Viña del Mar Chile Temple,Chile,ANNOUNCED,Announced,4160389,vina-del-mar-chile-temple,,,chile,,chile,TRUE,Viña del Mar Chile ,-31.7613365,-71.3187697
+Cody Wyoming Temple,"Wyoming, United States",ANNOUNCED,Announced,4142980,cody-wyoming-temple,Cody,Wyoming,United States,,NA,TRUE,Cody  ,44.5263107,-109.056392
+Huancayo Peru Temple,Peru,ANNOUNCED,Announced,4160388,huancayo-peru-temple,,,peru,,peru,TRUE,Huancayo Peru ,-6.8699697,-75.0458515
+Fort Worth Texas Temple,"Texas, United States",ANNOUNCED,Announced,4142979,fort-worth-texas-temple,Fort Worth,Texas,United States,,NA,TRUE,Fort Worth  ,32.753177,-97.3327459
+Layton Utah Temple,"Layton, Utah, United States",CONSTRUCTION,Construction,4108674,layton-utah-temple,Layton,Utah,United States,,NA,FALSE,Layton  ,41.0751048,-111.9741925
+Paris France Temple,"Le Chesnay, France",OPERATING,21 May 2017,4012417,paris-france-temple,Le Chesnay,,France,"May 21, 2017",NA,TRUE,Paris France ,48.8264842,2.1257808
+Piura Peru Temple,Peru,ANNOUNCED,Announced,4160387,piura-peru-temple,,,peru,,peru,TRUE,Piura Peru ,-6.8699697,-75.0458515
+Cancún Mexico Temple,Mexico,ANNOUNCED,Announced,4160386,cancun-mexico-temple,,,mexico,,mexico,TRUE,Cancún Mexico ,23.6585116,-102.0077097
+Provo City Center Temple,"Provo, Utah, United States",OPERATING,20 March 2016,4012416,provo-city-center-temple,Provo,Utah,United States,"March 20, 2016",NA,FALSE,Provo City Center ,40.2337289,-111.6587085
+Richmond Virginia Temple,"Glen Allen, Virginia, United States",OPERATING,7 May 2023,4108675,richmond-virginia-temple,Glen Allen,Virginia,United States,"May 7, 2023",NA,FALSE,Richmond  ,37.6659781,-77.506374
+Santiago West Chile Temple,Chile,ANNOUNCED,Announced,4142978,santiago-west-chile-temple,,,chile,,chile,TRUE,Santiago West Chile ,-31.7613365,-71.3187697
+Syracuse Utah Temple,"Syracuse, Utah, United States",CONSTRUCTION,Construction,4130690,syracuse-utah-temple,Syracuse,Utah,United States,,NA,FALSE,Syracuse  ,41.0895938,-112.0638903
+Durban South Africa Temple,"Durban, South Africa",OPERATING,16 February 2020,4012419,durban-south-africa-temple,Durban,,South Africa,"February 16, 2020",NA,TRUE,Durban South Africa ,-29.861825,31.009909
+La Paz Bolivia Temple,Bolivia,ANNOUNCED,Announced,4142977,la-paz-bolivia-temple,,,bolivia,,bolivia,TRUE,La Paz Bolivia ,-17.0568696,-64.9912286
+Managua Nicaragua Temple,Nicaragua,CONSTRUCTION,Construction,4108672,managua-nicaragua-temple,,,nicaragua,,nicaragua,TRUE,Managua Nicaragua ,12.6090157,-85.2936911
+Payson Utah Temple,"Payson, Utah, United States",OPERATING,7 June 2015,4007811,payson-utah-temple,Payson,Utah,United States,"June 7, 2015",NA,FALSE,Payson  ,40.0443989,-111.7321518
+Savai’i Samoa Temple,Location Not Available,ANNOUNCED,Announced,4160385,savai’i-samoa-temple,,,samoa,,samoa,TRUE,Savai’i Samoa ,-13.7693895,-172.12005
+Smithfield Utah Temple,"Utah, United States",CONSTRUCTION,Construction,4138369,smithfield-utah-temple,Smithfield,Utah,United States,,NA,TRUE,Smithfield  ,41.838429,-111.832804
+Cagayan de Oro Philippines Temple,Philippines,ANNOUNCED,Announced,4108673,cagayan-de-oro-philippines-temple,,,philippines,,philippines,TRUE,Cagayan de Oro Philippines ,12.7503486,122.7312101
+Kinshasa Democratic Republic of the Congo Temple,"Kinshasa, Democratic Republic of the Congo",OPERATING,14 April 2019,4012418,kinshasa-democratic-republic-of-the-congo-temple,Kinshasa,,Democratic Republic of the Congo,"April 14, 2019",NA,TRUE,Kinshasa Democratic Republic of the Congo ,-4.3217055,15.3125974
+Rexburg Idaho Temple,"Rexburg, Idaho, United States",OPERATING,10 February 2008,72126,rexburg-idaho-temple,Rexburg,Idaho,United States,"February 10, 2008",NA,FALSE,Rexburg  ,43.8235163,-111.787022
+Vitória Brazil Temple,Brazil,ANNOUNCED,Announced,4142976,vitoria-brazil-temple,,,brazil,,brazil,TRUE,Vitória Brazil ,-10.3333333,-53.2
+Yorba Linda California Temple,"California, United States",CONSTRUCTION,Construction,4138368,yorba-linda-california-temple,Yorba Linda,California,United States,,NA,TRUE,Yorba Linda  ,33.8901096,-117.8249705
+San Juan Puerto Rico Temple,"San Juan, Puerto Rico",OPERATING,15 January 2023,4114420,san-juan-puerto-rico-temple,San Juan,,Puerto Rico,"January 15, 2023",NA,TRUE,San Juan Puerto Rico ,NA,NA
+Oaxaca Mexico Temple,"Oaxaca, Oaxaca, Mexico",OPERATING,11 March 2000,37835,oaxaca-mexico-temple,Oaxaca,Oaxaca,Mexico,"March 11, 2000",NA,FALSE,Oaxaca Mexico ,17.0604663,-96.7253575
+Red Cliffs Utah Temple,"St. George, Utah, United States",CONSTRUCTION,Construction,4114421,red-cliffs-utah-temple,St. George,Utah,United States,,NA,FALSE,Red Cliffs  ,37.104153,-113.5841313
+Lagos Nigeria Temple,Nigeria,ANNOUNCED,Announced,4114418,lagos-nigeria-temple,,,nigeria,,nigeria,TRUE,Lagos Nigeria ,9.6000359,7.9999721
+Davao Philippines Temple,"Davao, Philippines",CONSTRUCTION,Construction,4114419,davao-philippines-temple,Davao,,Philippines,,NA,TRUE,Davao Philippines ,7.0648306,125.6080623
+Puebla Mexico Temple,"Puebla, Puebla, Mexico",CONSTRUCTION,Construction,4114416,puebla-mexico-temple,Puebla,Puebla,Mexico,,NA,FALSE,Puebla Mexico ,19.0437196,-98.1981486
+Auckland New Zealand Temple,"Auckland, New Zealand",CONSTRUCTION,Construction,4114417,auckland-new-zealand-temple,Auckland,,New Zealand,,NA,TRUE,Auckland New Zealand ,-36.852095,174.7631803
+Praia Cape Verde Temple,"Praia, Cape Verde",OPERATING,19 June 2022,4114414,praia-cape-verde-temple,Praia,,Cape Verde,"June 19, 2022",NA,TRUE,Praia Cape Verde ,14.9162811,-23.5095095
+Ephraim Utah Temple,"Utah, United States",CONSTRUCTION,Construction,4138990,ephraim-utah-temple,Ephraim,Utah,United States,,NA,TRUE,Ephraim  ,39.3596842,-111.586305
+Yigo Guam Temple,"Yigo, Guam",OPERATING,22 May 2022,4114415,yigo-guam-temple,Yigo,,Guam,"May 22, 2022",NA,TRUE,Yigo Guam ,NA,NA
+Feather River California Temple,"Yuba City, California, United States",OPERATING,8 October 2023,4114412,feather-river-california-temple,Yuba City,California,United States,"October 8, 2023",NA,FALSE,Feather River  ,39.1404477,-121.6169108
+Phnom Penh Cambodia Temple,"Phnom Penh, Cambodia",CONSTRUCTION,Construction,4114413,phnom-penh-cambodia-temple,Phnom Penh,,Cambodia,,NA,TRUE,Phnom Penh Cambodia ,11.568271,104.9224426
+Mendoza Argentina Temple,"Mendoza, Argentina",CONSTRUCTION,Construction,4114410,mendoza-argentina-temple,Mendoza,,Argentina,,NA,TRUE,Mendoza Argentina ,-32.8894155,-68.8446177
+Salvador Brazil Temple,"Salvador Bahia, Brazil",CONSTRUCTION,Construction,4114411,salvador-brazil-temple,Salvador Bahia,,Brazil,,NA,TRUE,Salvador Brazil ,-12.9822499,-38.4812772
+Tula Mexico Temple,Mexico,ANNOUNCED,Announced,4153320,tula-mexico-temple,,,mexico,,mexico,TRUE,Tula Mexico ,23.6585116,-102.0077097
+Toluca Mexico Temple,Mexico,ANNOUNCED,Announced,4153319,toluca-mexico-temple,,,mexico,,mexico,TRUE,Toluca Mexico ,23.6585116,-102.0077097
+Pachuca Mexico Temple,Mexico,ANNOUNCED,Announced,4153318,pachuca-mexico-temple,,,mexico,,mexico,TRUE,Pachuca Mexico ,23.6585116,-102.0077097
+Cuernavaca Mexico Temple,Mexico,ANNOUNCED,Announced,4153317,cuernavaca-mexico-temple,,,mexico,,mexico,TRUE,Cuernavaca Mexico ,23.6585116,-102.0077097
+Tacoma Washington Temple,"Washington, United States",ANNOUNCED,Announced,4153316,tacoma-washington-temple,Tacoma,Washington,United States,,NA,TRUE,Tacoma  ,47.2455013,-122.438329
+Lone Mountain Nevada Temple,"Nevada, United States",ANNOUNCED,Announced,4153315,lone-mountain-nevada-temple,Lone Mountain,Nevada,United States,,NA,TRUE,Lone Mountain  ,36.2386582,-115.3148492
+Prosper Texas Temple,"Texas, United States",ANNOUNCED,Announced,4153314,prosper-texas-temple,Prosper,Texas,United States,,NA,TRUE,Prosper  ,33.2385763,-96.7866058
+Grand Rapids Michigan Temple,"Michigan, United States",ANNOUNCED,Announced,4153313,grand-rapids-michigan-temple,Grand Rapids,Michigan,United States,,NA,TRUE,Grand Rapids  ,42.9632425,-85.6678639
+Jacksonville Florida Temple,"Florida, United States",ANNOUNCED,Announced,4153312,jacksonville-florida-temple,Jacksonville,Florida,United States,,NA,TRUE,Jacksonville  ,30.3321838,-81.655651
+Huehuetenango Guatemala Temple,Guatemala,ANNOUNCED,Announced,4153311,huehuetenango-guatemala-temple,,,guatemala,,guatemala,TRUE,Huehuetenango Guatemala ,15.5855545,-90.345759
+Ribeirão Prêto Brazil Temple,Brazil,ANNOUNCED,Announced,4153310,ribeirao-preto-brazil-temple,,,brazil,,brazil,TRUE,Ribeirão Prêto Brazil ,-10.3333333,-53.2
+Londrina Brazil Temple,Brazil,ANNOUNCED,Announced,4153309,londrina-brazil-temple,,,brazil,,brazil,TRUE,Londrina Brazil ,-10.3333333,-53.2
+Buenos Aires City Center Argentina Temple,Argentina,ANNOUNCED,Announced,4153308,buenos-aires-city-center-argentina-temple,,,argentina,,argentina,TRUE,Buenos Aires City Center Argentina ,-34.9964963,-64.9672817
+Chiclayo Peru Temple,Peru,ANNOUNCED,Announced,4153307,chiclayo-peru-temple,,,peru,,peru,TRUE,Chiclayo Peru ,-6.8699697,-75.0458515
+Eket Nigeria Temple,Nigeria,ANNOUNCED,Announced,4153306,eket-nigeria-temple,,,nigeria,,nigeria,TRUE,Eket Nigeria ,9.6000359,7.9999721
+Santiago Philippines Temple,Philippines,ANNOUNCED,Announced,4153305,santiago-philippines-temple,,,philippines,,philippines,TRUE,Santiago Philippines ,12.7503486,122.7312101
+Naga Philippines Temple,Philippines,ANNOUNCED,Announced,4153304,naga-philippines-temple,,,philippines,,philippines,TRUE,Naga Philippines ,12.7503486,122.7312101
+Busan Korea Temple,South Korea,ANNOUNCED,Announced,4153303,busan-korea-temple,,,korea,,korea,TRUE,Busan Korea ,36.638392,127.6961188
+Louisville Kentucky Temple,"Crestwood, Kentucky, United States",OPERATING,19 March 2000,38376,louisville-kentucky-temple,Crestwood,Kentucky,United States,"March 19, 2000",NA,FALSE,Louisville  ,38.3235441,-85.4726215
+Medford Oregon Temple,"Central Point, Oregon, United States",OPERATING,16 April 2000,38377,medford-oregon-temple,Central Point,Oregon,United States,"April 16, 2000",NA,FALSE,Medford  ,42.376782,-122.912721
+Fresno California Temple,"Fresno, California, United States",OPERATING,9 April 2000,37354,fresno-california-temple,Fresno,California,United States,"April 9, 2000",NA,FALSE,Fresno  ,36.7295295,-119.70886126075588
+Oklahoma City Oklahoma Temple,"Yukon, Oklahoma, United States",OPERATING,30 July 2000,38378,oklahoma-city-oklahoma-temple,Yukon,Oklahoma,United States,"July 30, 2000",NA,FALSE, City Oklahoma ,35.5067259,-97.7625386
+Copenhagen Denmark Temple,"Frederiksberg, Hovedstaden, Denmark",OPERATING,23 May 2004,38397,copenhagen-denmark-temple,Frederiksberg,Hovedstaden,Denmark,"May 23, 2004",NA,FALSE,Copenhagen Denmark ,55.678016,12.5326186
+San José Costa Rica Temple,"Belén, Heredia, Costa Rica",OPERATING,4 June 2000,38398,san-jose-costa-rica-temple,Belén,Heredia,Costa Rica,"June 4, 2000",NA,FALSE,San José Costa Rica ,9.9795545,-84.1852459
