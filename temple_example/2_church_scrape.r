@@ -65,5 +65,5 @@ filter(temple_address, stateRegion == "Michigan")
 filter(temple_address, stateRegion == "Idaho")
 filter(temple_address, stateRegion == "Oregon")
 
-write_csv(temple_address, "temple_example/temple_latlong.csv")
-write_parquet(temple_address, "temple_example/temple_latlong.parquet")
+write_csv(temple_address, "temple_example/temple_church.csv")
+write_parquet(temple_address, "temple_example/temple_church.parquet")

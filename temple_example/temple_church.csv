@@ -169,9 +169,9 @@ Winter Quarters Nebraska Temple,"Omaha, Nebraska, United States",OPERATING,22 Ap
 Draper Utah Temple,"Draper, Utah, United States",OPERATING,20 March 2009,75530,draper-utah-temple,Draper,Utah,United States,"March 20, 2009",NA,FALSE,Draper  ,40.5247777,-111.8627989
 Perth Australia Temple,"Yokine, Western Australia, Australia",OPERATING,20 May 2001,40203,perth-australia-temple,Yokine,Western Australia,Australia,"May 20, 2001",NA,FALSE,Perth Australia ,-31.90171,115.8525017
 Lima Peru Los Olivos Temple,"Los Olivos, Lima, Peru",CONSTRUCTION,Construction,4086056,lima-peru-los-olivos-temple,Los Olivos,Lima,Peru,,NA,FALSE,Lima Peru Los Olivos ,-11.9659853,-77.07307131998294
-Quito Ecuador Temple,"Quito, Ecuador",OPERATING,20 November 2022,4086054,quito-ecuador-temple,Quito,,Ecuador,"November 20, 2022",NA,TRUE,Quito Ecuador ,-0.2201641,-78.5123274
+Quito Ecuador Temple,"Quito, Ecuador",OPERATING,20 November 2022,4086054,quito-ecuador-temple,Quito,,Equador,"November 20, 2022",NA,TRUE,Quito Ecuador ,-0.2201641,-78.5123274
 Veracruz Mexico Temple,"Boca del Rio, Veracruz, Mexico",OPERATING,9 July 2000,38680,veracruz-mexico-temple,Boca del Rio,Veracruz,Mexico,"July 9, 2000",NA,FALSE,Veracruz Mexico ,19.1007964,-96.1058339
-Belém Brazil Temple,"Belém, Para, Brazil",OPERATING,20 November 2022,4086055,belem-brazil-temple,Belém,Para,Brazil,"November 20, 2022",NA,FALSE,Belém Brazil ,-1.45056,-48.4682453
+Belém Brazil Temple,"Belém, Para, Brazil",OPERATING,20 November 2022,4086055,belem-brazil-temple,Belém,,Brasilië,"November 20, 2022",NA,TRUE,Belém Brazil ,-1.45056,-48.4682453
 Reno Nevada Temple,"Reno, Nevada, United States",OPERATING,23 April 2000,38681,reno-nevada-temple,Reno,Nevada,United States,"April 23, 2000",NA,FALSE,Reno  ,39.5261206,-119.8126581
 Guadalajara Mexico Temple,"Zapopan, Jalisco, Mexico",OPERATING,29 April 2001,38682,guadalajara-mexico-temple,Zapopan,Jalisco,Mexico,"April 29, 2001",NA,FALSE,Guadalajara Mexico ,20.7211203,-103.3913671
 Harare Zimbabwe Temple,"Harare, Zimbabwe",CONSTRUCTION,Construction,4086053,harare-zimbabwe-temple,Harare,,Zimbabwe,,NA,TRUE,Harare Zimbabwe ,-17.831773,31.045686
@@ -207,7 +207,7 @@ Brussels Belgium Temple,Belgium,ANNOUNCED,Announced,4138351,brussels-belgium-tem
 Oslo Norway Temple,Norway,ANNOUNCED,Announced,4138350,oslo-norway-temple,,,norway,,norway,TRUE,Oslo Norway ,61.1529386,8.7876653
 Quetzaltenango Guatemala Temple,"Quetzaltenango, Quezaltenango, Guatemala",OPERATING,11 December 2011,78698,quetzaltenango-guatemala-temple,Quetzaltenango,Quezaltenango,Guatemala,"December 11, 2011",NA,FALSE,Quetzaltenango Guatemala ,NA,NA
 Bangkok Thailand Temple,"Bangkok, Thailand",OPERATING,22 October 2023,4069712,bangkok-thailand-temple,Bangkok,,Thailand,"October 22, 2023",NA,TRUE,Bangkok Thailand ,13.7524938,100.4935089
-Abidjan Ivory Coast Temple,"Abidjan, Côte d'Ivoire",CONSTRUCTION,Construction,4069710,abidjan-ivory-coast-temple,Abidjan,,Côte d'Ivoire,,NA,TRUE,Abidjan Ivory Coast ,5.320357,-4.016107
+Abidjan Ivory Coast Temple,"Abidjan, Côte d'Ivoire",CONSTRUCTION,Construction,4069710,abidjan-ivory-coast-temple,Abidjan,,Ivory Coast,,NA,TRUE,Abidjan Ivory Coast ,5.320357,-4.016107
 Port-au-Prince Haiti Temple,"Port-au-Prince, Haiti",OPERATING,1 September 2019,4069711,port-au-prince-haiti-temple,Port-au-Prince,,Haiti,"September 1, 2019",NA,TRUE,Port-au-Prince Haiti ,18.547327,-72.3395928
 Phoenix Arizona Temple,"Phoenix, Arizona, United States",OPERATING,16 November 2014,4004672,phoenix-arizona-temple,Phoenix,Arizona,United States,"November 16, 2014",NA,FALSE,Phoenix  ,33.4484367,-112.074141
 Winnipeg Manitoba Temple,"Winnipeg, Manitoba, Canada",OPERATING,31 October 2021,4010937,winnipeg-manitoba-temple,Winnipeg,Manitoba,Canada,"October 31, 2021",NA,FALSE,Winnipeg Manitoba ,49.8955367,-97.1384584
@@ -215,7 +215,7 @@ Fort Collins Colorado Temple,"Fort Collins, Colorado, United States",OPERATING,1
 Meridian Idaho Temple,"Meridian, Idaho, United States",OPERATING,19 November 2017,4010938,meridian-idaho-temple,Meridian,Idaho,United States,"November 19, 2017",NA,FALSE,Meridian  ,43.6086295,-116.392326
 Brigham City Utah Temple,"Brigham City, Utah, United States",OPERATING,23 September 2012,4007349,brigham-city-utah-temple,Brigham City,Utah,United States,"September 23, 2012",NA,FALSE,Brigham City  ,41.5110434,-112.0154991
 Fort Lauderdale Florida Temple,"Davie, Florida, United States",OPERATING,4 May 2014,4007348,fort-lauderdale-florida-temple,Davie,Florida,United States,"May 4, 2014",NA,FALSE,Fort Lauderdale  ,26.07441465,-80.28402569275804
-Fortaleza Brazil Temple,"Fortaleza, Ceara, Brazil",OPERATING,2 June 2019,4007351,fortaleza-brazil-temple,Fortaleza,Ceara,Brazil,"June 2, 2019",NA,FALSE,Fortaleza Brazil ,-3.7304512,-38.5217989
+Fortaleza Brazil Temple,"Fortaleza, Ceara, Brazil",OPERATING,2 June 2019,4007351,fortaleza-brazil-temple,Fortaleza,Ceará,Brazil,"June 2, 2019",NA,FALSE,Fortaleza Brazil ,-3.7304512,-38.5217989
 Sapporo Japan Temple,"Atsubetsu-ku Sapporo, Hokkaido, Japan",OPERATING,21 August 2016,4007350,sapporo-japan-temple,Atsubetsu-ku Sapporo,Hokkaido,Japan,"August 21, 2016",NA,FALSE,Sapporo Japan ,NA,NA
 Cebu City Philippines Temple,"Cebu City, Cebu, Philippines",OPERATING,13 June 2010,77199,cebu-city-philippines-temple,Cebu City,Cebu,Philippines,"June 13, 2010",NA,FALSE,Cebu City Philippines ,10.2977029,123.8990986
 Concepción Chile Temple,"Concepcion, Chile",OPERATING,28 October 2018,4007347,concepcion-chile-temple,Concepcion,,Chile,"October 28, 2018",NA,TRUE,Concepción Chile ,-36.8270795,-73.0502399
@@ -223,7 +223,7 @@ Palmyra New York Temple,"Palmyra, New York, United States",OPERATING,6 April 200
 Oquirrh Mountain Utah Temple,"South Jordan, Utah, United States",OPERATING,21 August 2009,77200,oquirrh-mountain-utah-temple,South Jordan,Utah,United States,"August 21, 2009",NA,FALSE,Oquirrh Mountain  ,40.5584882,-111.9367107
 Pocatello Idaho Temple,"Pocatello, Idaho, United States",OPERATING,7 November 2021,4098474,pocatello-idaho-temple,Pocatello,Idaho,United States,"November 7, 2021",NA,FALSE,Pocatello  ,42.8620287,-112.450627
 Saratoga Springs Utah Temple,"Saratoga Springs, Utah, United States",OPERATING,13 August 2023,4098475,saratoga-springs-utah-temple,Saratoga Springs,Utah,United States,"August 13, 2023",NA,FALSE,Saratoga Springs  ,40.3862792,-111.9130188
-Alabang Philippines Temple,Philippines,CONSTRUCTION,Construction,4098472,alabang-philippines-temple,Manila,,Filippyne,,NA,TRUE,Alabang Philippines ,14.5906346,120.9799964
+Alabang Philippines Temple,Philippines,CONSTRUCTION,Construction,4098472,alabang-philippines-temple,Manila,,Philippines,,NA,TRUE,Alabang Philippines ,14.5906346,120.9799964
 Modesto California Temple,"California, United States",CONSTRUCTION,Construction,4148136,modesto-california-temple,Modesto,California,United States,,NA,TRUE,Modesto  ,37.6390972,-120.9968782
 Nairobi Kenya Temple,"Nairobi, Kenya",CONSTRUCTION,Construction,4098473,nairobi-kenya-temple,Nairobi,,Kenya,,NA,TRUE,Nairobi Kenya ,-1.30261485,36.82884201813725
 Montpelier Idaho Temple,"Idaho, United States",CONSTRUCTION,Construction,4148135,montpelier-idaho-temple,Montpelier,Idaho,United States,,NA,TRUE,Montpelier  ,42.3221498,-111.2977044

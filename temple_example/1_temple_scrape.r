@@ -1,6 +1,6 @@
 # install.packages(pacman)
 
-pacman::p_load(tidyverse, rvest, lubridate, magick, arrow, rworldmap)
+pacman::p_load(tidyverse, rvest, lubridate, magick, arrow, rworldmap, stringi)
 
 base_url <- "https://churchofjesuschristtemples.org/statistics/"
 
@@ -73,6 +73,57 @@ temples <- temple_dim |>
     left_join(temple_features) |>
     left_join(temple_time) 
 
+t_url <- pull(temples, temple) |>
+str_to_lower() |>
+str_replace_all(" ", "-")
+
+temple_urls <- paste0("https://churchofjesuschristtemples.org/", t_url) |>
+    stri_trans_general(id = "Latin-ASCII")
+
+stri_trans_general(temple_urls[269], id = "Latin-ASCII")
+
+text <- temple_urls[269] |>
+  read_html() |>
+  rvest::html_elements(".feature_box_wrapper") |>
+  html_text2()
+
+get_html_text <- function(x) {
+    print(x)
+    rvest::read_html(x) |>
+        rvest::html_elements(".feature_box_wrapper") |>
+        rvest::html_text2()
+}
+
+get_address <- function(text) {
+    text |>
+        stringr::str_remove("Address\n|Location\n") |>
+        stringr::str_split("Telephone|\n\n", n = 2) |>
+        unlist() |>
+        (\(x) x[1])() |>
+        stringr::str_replace_all("\n", ",") |>
+        stringr::str_replace_all(",", ", ") |>
+        stringr::str_squish() |>
+        stringr::str_remove("(,+$)")
+}
+
+temple_html <- map(temple_urls, get_html_text)
+temple_address <- map(temple_html, get_address)
+
+spatial_dat <- tibble(
+        temple =  pull(temples, temple),
+        temple_urls = temple_urls,
+        temple_address = unlist(temple_address)) |>
+    geocode(address = temple_address, method = "arcgis")
+
+temples <- temples |>
+    left_join(spatial_dat)
+# https://churchofjesuschristtemples.org/aba-nigeria-temple/
+# https://churchofjesuschristtemples.org/washington-d.c.-temple/
+# https://churchofjesuschristtemples.org/heber-valley-utah-temple/
+# https://churchofjesuschristtemples.org/port-moresby-papua-new-guinea-temple/
+# https://churchofjesuschristtemples.org/anchorage-alaska-temple/
+# https://churchofjesuschristtemples.org/asuncion-paraguay-temple/
+# https://churchofjesuschristtemples.org/vitoria-brazil-temple/
 
 ### Get prophet dates
 
@@ -132,13 +183,9 @@ dat <- bind_cols(temples, intervals) |>
     mutate(
         prophet_start = int_start(interval),
         prophet_end = int_end(interval))
-# stringi::stri_enc_toascii(dat$temple)
-#         temple = stringi::stri_enc_toascii(temple),
-dat <- dat |>
-    mutate(
-        country = ifelse(
-            str_detect(temple, "Freetown|Lubumbashi|Papua|Vanuatu"),
-            "International", country))
 
-write_csv(dat, "temple_example/temple_details_nolatlong.csv")
-write_parquet(dat, "temple_example/temple_details_nolatlong.parquet")
+write_csv(dat, "temple_example/temple_details.csv")
+write_parquet(dat, "temple_example/temple_details.parquet")
+
+
+
