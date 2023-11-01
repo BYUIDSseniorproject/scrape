@@ -17,3 +17,6 @@ px.scatter_geo(dat.filter(pl.col("country") == "United States"), lat="lat", lon=
        
 
 # %%
+pl.from_arrow(pq.read_table("tract_distance_to_nearest_temple.parquet"))
+
+# %%
